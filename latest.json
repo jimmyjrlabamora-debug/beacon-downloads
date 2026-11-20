@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T17:47:37Z",
+ "updated": "2026-11-20T17:51:51Z",
  "apps": [
   {
    "key": "finance",
@@ -16,26 +16,26 @@
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.11",
-   "program_version": "4.36.8",
-   "tag": "secretary-v1.28.11",
-   "file": "Beacon_Secretary_Setup_1.28.11.zip",
-   "size": 43145617,
+   "version": "1.28.12",
+   "program_version": "4.37.0",
+   "tag": "secretary-v1.28.12",
+   "file": "Beacon_Secretary_Setup_1.28.12.zip",
+   "size": 43148019,
    "date": "2026-11-20",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.11/Beacon_Secretary_Setup_1.28.11.zip",
-   "whats_new": "v4.36.8 - ITS COPY OF THE PORTAL PAGE (Website Update 82)\n  - Nothing else changed in this program. In the portal, Send to Beacon Presenter now opens Beacon Presenter's page right after\n    the tap (the phone had blocked it), and shows the address it used."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.12/Beacon_Secretary_Setup_1.28.12.zip",
+   "whats_new": "v4.37.0 - VISITORS GET THEIR OWN PORTAL\n  - Meetings… → Visitors (new tab): every visitor with the meetings they were ticked present at and their Sundays. Those who\n    came 2 or more times are marked \"ready for a sign-in\" (the tab shows how many). Select them and click \"Give the selected\n    their own portal (Member ID and PIN)…\": each becomes a member (the Visitors list keeps them, marked \"Became member\"),\n    gets a prayer category, a Member ID and a PIN, and the PIN slips open to print and hand over. Their portal is the same as\n    any member's. Their details (contact, birthday …) can be completed later in Members.\n  - The phones' list is sent again at once, so they are ticked as members from then on."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.11",
-   "program_version": "4.36.8",
-   "tag": "attendance-v1.28.11",
-   "file": "Beacon_Attendance_Setup_1.28.11.zip",
-   "size": 43142825,
+   "version": "1.28.12",
+   "program_version": "4.37.0",
+   "tag": "attendance-v1.28.12",
+   "file": "Beacon_Attendance_Setup_1.28.12.zip",
+   "size": 43143349,
    "date": "2026-11-20",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.11/Beacon_Attendance_Setup_1.28.11.zip",
-   "whats_new": "v4.36.8 - ITS COPY OF THE PORTAL PAGE (Website Update 82)\n  - Nothing else changed in this program. In the portal, Send to Beacon Presenter now opens Beacon Presenter's page right after\n    the tap (the phone had blocked it), and shows the address it used."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.12/Beacon_Attendance_Setup_1.28.12.zip",
+   "whats_new": "v4.37.0 - VISITORS GET THEIR OWN PORTAL\n  - Meetings… → Visitors (new tab): every visitor with the meetings they were ticked present at and their Sundays. Those who\n    came 2 or more times are marked \"ready for a sign-in\" (the tab shows how many). Select them and click \"Give the selected\n    their own portal (Member ID and PIN)…\": each becomes a member (the Visitors list keeps them, marked \"Became member\"),\n    gets a prayer category, a Member ID and a PIN, and the PIN slips open to print and hand over. Their portal is the same as\n    any member's. Their details (contact, birthday …) can be completed later in Members.\n  - The phones' list is sent again at once, so they are ticked as members from then on."
   },
   {
    "key": "admin",
