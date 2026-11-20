@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T18:46:33Z",
+ "updated": "2026-11-20T19:04:08Z",
  "apps": [
   {
    "key": "finance",
@@ -16,26 +16,26 @@
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.15",
-   "program_version": "4.38.1",
-   "tag": "secretary-v1.28.15",
-   "file": "Beacon_Secretary_Setup_1.28.15.zip",
-   "size": 43152423,
+   "version": "1.28.16",
+   "program_version": "4.38.2",
+   "tag": "secretary-v1.28.16",
+   "file": "Beacon_Secretary_Setup_1.28.16.zip",
+   "size": 43152789,
    "date": "2026-11-20",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.15/Beacon_Secretary_Setup_1.28.15.zip",
-   "whats_new": "v4.38.1 - A NEW MEETINGS WINDOW; PRAYER POINTS KEEP THEIR ITEMS (and Website Update 85)\n  - Meetings… has a new look: the meeting and the date at the top for every tab, the tabs as buttons, white cards with flat\n    modern buttons. Prayer groups in 3 steps: 1 Prayer points (with their items), 2 Make this week's groups, 3 The groups.\n  - Prayer points keep their items. A new prayer meeting starts from the last one: its points with their items, which points\n    go together and the number of groups (else the usual points).\n  - Prayer groups → \"Publish to the portal\": these points with their items (and which go together, and the number of\n    groups) become the usual ones and go to the phones at once; this meeting's groups get them too.\n  - The 4 printed Sunday QR cards moved to the check-in window (Check-in at church → Printed QR cards for Sundays). The\n    Sunday service check-in is the QR check-in; Meetings… is for the other meetings.\n  - The member portal does the same (Website Update 85)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.16/Beacon_Secretary_Setup_1.28.16.zip",
+   "whats_new": "v4.38.2 - URGENT PRAYER REQUESTS LAST (and Website Update 86)\n  - The shared prayer requests are at the end of the prayer points: Special requests, then Urgent prayer requests as the very\n    last point, always for the last group.\n  - The member portal does the same (Website Update 86)."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.15",
-   "program_version": "4.38.1",
-   "tag": "attendance-v1.28.15",
-   "file": "Beacon_Attendance_Setup_1.28.15.zip",
-   "size": 43151660,
+   "version": "1.28.16",
+   "program_version": "4.38.2",
+   "tag": "attendance-v1.28.16",
+   "file": "Beacon_Attendance_Setup_1.28.16.zip",
+   "size": 43152208,
    "date": "2026-11-20",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.15/Beacon_Attendance_Setup_1.28.15.zip",
-   "whats_new": "v4.38.1 - A NEW MEETINGS WINDOW; PRAYER POINTS KEEP THEIR ITEMS (and Website Update 85)\n  - Meetings… has a new look: the meeting and the date at the top for every tab, the tabs as buttons, white cards with flat\n    modern buttons. Prayer groups in 3 steps: 1 Prayer points (with their items), 2 Make this week's groups, 3 The groups.\n  - Prayer points keep their items. A new prayer meeting starts from the last one: its points with their items, which points\n    go together and the number of groups (else the usual points).\n  - Prayer groups → \"Publish to the portal\": these points with their items (and which go together, and the number of\n    groups) become the usual ones and go to the phones at once; this meeting's groups get them too.\n  - The 4 printed Sunday QR cards moved to the check-in window (Check-in at church → Printed QR cards for Sundays). The\n    Sunday service check-in is the QR check-in; Meetings… is for the other meetings.\n  - The member portal does the same (Website Update 85)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.16/Beacon_Attendance_Setup_1.28.16.zip",
+   "whats_new": "v4.38.2 - URGENT PRAYER REQUESTS LAST (and Website Update 86)\n  - The shared prayer requests are at the end of the prayer points: Special requests, then Urgent prayer requests as the very\n    last point, always for the last group.\n  - The member portal does the same (Website Update 86)."
   },
   {
    "key": "admin",
