@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Beacon Downloads</title>
+<meta name="description" content="The latest Windows setups of Beacon Christian Assembly's church programs: Beacon Finance, Secretary, Attendance, Admin and Cam Host.">
+<link rel="icon" href="logo.png">
+<style>
+  :root {
+    --navy: #0B2D5B; --navy-2: #123B73; --gold: #D4A017; --gold-soft: #F6E7B8;
+    --ink: #101828; --muted: #5B6578; --line: #E3E7EE; --bg: #F4F6FA; --card: #FFFFFF; --ok: #157F3B;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --ink: #E8ECF3; --muted: #A5AFC0; --line: #2A3446; --bg: #0E1522; --card: #161F30; --gold-soft: #3B321A; }
+  }
+  * { box-sizing: border-box }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.55 -apple-system, "Segoe UI", Roboto, Arial, sans-serif }
+  a { color: inherit }
+  header { background: linear-gradient(160deg, var(--navy) 0%, var(--navy-2) 100%); color: #fff; padding: 28px 16px 72px }
+  .wrap { max-width: 980px; margin: 0 auto }
+  .brand { display: flex; align-items: center; gap: 14px }
+  .brand img { width: 56px; height: 56px }
+  .brand small { display: block; color: var(--gold); font-weight: 700; letter-spacing: .08em; text-transform: uppercase; font-size: 12px }
+  .brand b { font-size: 20px }
+  h1 { margin: 26px 0 6px; font-size: clamp(28px, 6vw, 40px); line-height: 1.15 }
+  .lead { margin: 0; max-width: 640px; color: #D5DEEC }
+  main { margin-top: -48px; padding: 0 16px 40px }
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; align-items: start }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 20px; display: flex; flex-direction: column;
+          box-shadow: 0 6px 24px rgba(11,45,91,.08) }
+  .card h2 { margin: 0; font-size: 20px; color: var(--ink) }
+  .card .for { margin: 4px 0 14px; color: var(--muted); font-size: 14px }
+  .meta { display: flex; flex-wrap: wrap; gap: 6px 10px; font-size: 13px; color: var(--muted); margin-bottom: 16px }
+  .ver { background: var(--gold-soft); color: var(--ink); font-weight: 700; border-radius: 999px; padding: 2px 10px }
+  .btn { display: flex; align-items: center; justify-content: center; gap: 8px; background: var(--navy); color: #fff; text-decoration: none;
+         font-weight: 700; border-radius: 12px; padding: 13px 16px }
+  .btn:hover { background: var(--navy-2) } .btn:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px }
+  @media (prefers-color-scheme: dark) { .btn { background: var(--gold); color: #1A1305 } .btn:hover { background: #E2B53A } }
+  details { margin-top: 12px; font-size: 14px }
+  summary { cursor: pointer; color: var(--muted); font-weight: 600 }
+  .new { overflow-wrap: anywhere; background: var(--bg); border: 1px solid var(--line); border-radius: 10px;
+         padding: 10px 12px; font-size: 13.5px; line-height: 1.5; margin: 8px 0 0; max-height: 280px; overflow: auto }
+  .new b { display: block; color: var(--ink) } .new p { margin: 6px 0 0 }
+  .none { color: var(--muted); font-size: 14px; margin-top: auto }
+  section.how { margin-top: 28px; background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 20px }
+  section.how h2 { margin: 0 0 10px; font-size: 18px }
+  ol { margin: 0; padding-left: 22px } li { margin: 6px 0 }
+  .note { margin-top: 12px; border-left: 4px solid var(--gold); padding: 8px 12px; background: var(--bg); border-radius: 0 10px 10px 0; font-size: 14px }
+  footer { color: var(--muted); font-size: 13px; padding: 0 16px 32px }
+  footer .wrap { border-top: 1px solid var(--line); padding-top: 16px; display: flex; flex-wrap: wrap; gap: 8px 18px; justify-content: space-between }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="brand"><img src="logo.png" alt=""><div><small>Beacon Christian Assembly</small><b>Church programs</b></div></div>
+    <h1>Downloads</h1>
+    <p class="lead">The latest version of each program for the church's Windows computers. This page always has the newest one.</p>
+  </div>
+</header>
+<main>
+  <div class="wrap">
+    <div class="grid">
+      <article class="card" id="finance">
+        <h2>Beacon Finance</h2>
+        <p class="for">Giving, expenses, funds and the monthly reports. For the treasurer and the finance team.</p>
+        <div class="meta"><span class="ver">Version 48.19.2</span><span>20 November 2026</span><span>25 MB</span></div>
+        <a class="btn" href="https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/finance-v48.19.2/Beacon_Finance_Setup_48.19.2.zip" download>Download for Windows</a>
+        <details><summary>What is new</summary><div class="new"><b>48.19.2  (November 2026)  THE SAME SECURITY RULES AS THE WEBSITE</b><p>Online Giving → Copy Security Rules / Make Giving Page Files now give rules version 46, the same as Beacon Pastor&#x27;s website (Website Update 66 and later). Version 45 (48.17.0–48.19.1) did not have Follow live (worship_live): publishing the rules from here would have turned Follow live off. Nothing else changed. (Same fix as 48.18.1, which was made beside 48.19.x.)</p></div></details>
+      </article>
+      <article class="card" id="secretary">
+        <h2>Beacon Secretary</h2>
+        <p class="for">Members, attendance records and the member portal. For the church office.</p>
+        <div class="meta"><span class="ver">Version 1.28.2 · program 4.35.3</span><span>20 November 2026</span><span>41 MB</span></div>
+        <a class="btn" href="https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.2/Beacon_Secretary_Setup_1.28.2.zip" download>Download for Windows</a>
+        <details><summary>What is new</summary><div class="new"><b>v4.35.3 - SEE THE PORTAL AS THIS MEMBER SHOWS THE CURRENT PORTAL</b><p>- Member Portal → See the Portal as This Member now opens the portal as it is PUBLISHED (read from the church&#x27;s website), so a Website Update published from Beacon Pastor shows here at once. The yellow bar says which version it shows. Without internet it uses this program&#x27;s own copy (now Website Update 71) and says so.</p><p>- This program&#x27;s copy of the portal page and the rules: Website Update 71 (rules version 46).</p></div></details>
+      </article>
+      <article class="card" id="attendance">
+        <h2>Beacon Attendance</h2>
+        <p class="for">Taking attendance and check-in. For the attendance computer.</p>
+        <div class="meta"><span class="ver">Version 1.28.2 · program 4.35.3</span><span>20 November 2026</span><span>41 MB</span></div>
+        <a class="btn" href="https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.2/Beacon_Attendance_Setup_1.28.2.zip" download>Download for Windows</a>
+        <details><summary>What is new</summary><div class="new"><b>v4.35.3 - SEE THE PORTAL AS THIS MEMBER SHOWS THE CURRENT PORTAL</b><p>- Member Portal → See the Portal as This Member now opens the portal as it is PUBLISHED (read from the church&#x27;s website), so a Website Update published from Beacon Pastor shows here at once. The yellow bar says which version it shows. Without internet it uses this program&#x27;s own copy (now Website Update 71) and says so.</p><p>- This program&#x27;s copy of the portal page and the rules: Website Update 71 (rules version 46).</p></div></details>
+      </article>
+      <article class="card" id="admin">
+        <h2>Beacon Admin</h2>
+        <p class="for">Schedules, assignments and Worship &amp; Media. For the church admin.</p>
+        <div class="meta"><span class="ver">Version 1.26.0</span><span>20 November 2026</span><span>19 MB</span></div>
+        <a class="btn" href="https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/admin-v1.26.0/Beacon_Admin_Setup_1.26.0.zip" download>Download for Windows</a>
+        <details><summary>What is new</summary><div class="new"><b>NEW IN 1.26.0: Settings and Online &amp; Sharing pages scroll (nothing cropped). Shared schedule now has the same choices as Beacon Finance: Sync Now (combine), Use the Drive copy, Force upload, Choose items (Download / Upload / Ignore each difference), and Restore points.</b></div></details>
+      </article>
+      <article class="card" id="camhost">
+        <h2>Beacon Cam Host</h2>
+        <p class="for">Cameras and live video switching. For the media booth computer.</p>
+        <div class="meta"><span class="ver">Version 0.6.0</span><span>20 November 2026</span><span>22 MB</span></div>
+        <a class="btn" href="https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/camhost-v0.6.0/BeaconCamHost-Setup-0.6.0.zip" download>Download for Windows</a>
+        
+      </article>
+    </div>
+    <section class="how" aria-labelledby="howTitle">
+      <h2 id="howTitle">How to install or update</h2>
+      <ol>
+        <li>Click <b>Download for Windows</b> on the program you need.</li>
+        <li>Open the downloaded <b>.zip</b> file: right-click it → <b>Extract All</b>.</li>
+        <li>Double-click the <b>Setup</b> file inside, then <b>Yes</b>, <b>Next</b> and <b>Install</b>.</li>
+        <li>Already installed? Run the new setup the same way. It updates the program and <b>keeps the church records</b>.</li>
+      </ol>
+      <div class="note">If Windows says <b>“Windows protected your PC”</b>, click <b>More info</b>, then <b>Run anyway</b>. It appears because these
+        programs are made by the church, not by a large company.</div>
+      <div class="note">The programs are for the church's officers. Opening the church's records still needs the church's sign-in;
+        a new computer starts empty until it is connected to the church's records.</div>
+    </section>
+  </div>
+</main>
+<footer>
+  <div class="wrap">
+    <span>Updated 20 November 2026</span>
+    <a href="https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases">Older versions</a>
+  </div>
+</footer>
+</body>
+</html>

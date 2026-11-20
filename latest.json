@@ -1,0 +1,65 @@
+{
+ "updated": "2026-11-20T07:43:21Z",
+ "apps": [
+  {
+   "key": "finance",
+   "name": "Beacon Finance",
+   "version": "48.19.2",
+   "program_version": "48.19.2",
+   "tag": "finance-v48.19.2",
+   "file": "Beacon_Finance_Setup_48.19.2.zip",
+   "size": 26698559,
+   "date": "2026-11-20",
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/finance-v48.19.2/Beacon_Finance_Setup_48.19.2.zip",
+   "whats_new": "48.19.2  (November 2026)  THE SAME SECURITY RULES AS THE WEBSITE\n  Online Giving → Copy Security Rules / Make Giving Page Files now give rules version 46, the same as Beacon Pastor's website\n  (Website Update 66 and later). Version 45 (48.17.0–48.19.1) did not have Follow live (worship_live): publishing the rules from\n  here would have turned Follow live off. Nothing else changed. (Same fix as 48.18.1, which was made beside 48.19.x.)"
+  },
+  {
+   "key": "secretary",
+   "name": "Beacon Secretary",
+   "version": "1.28.2",
+   "program_version": "4.35.3",
+   "tag": "secretary-v1.28.2",
+   "file": "Beacon_Secretary_Setup_1.28.2.zip",
+   "size": 43119048,
+   "date": "2026-11-20",
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.2/Beacon_Secretary_Setup_1.28.2.zip",
+   "whats_new": "v4.35.3 - SEE THE PORTAL AS THIS MEMBER SHOWS THE CURRENT PORTAL\n  - Member Portal → See the Portal as This Member now opens the portal as it is PUBLISHED (read from the church's website),\n    so a Website Update published from Beacon Pastor shows here at once. The yellow bar says which version it shows. Without\n    internet it uses this program's own copy (now Website Update 71) and says so.\n  - This program's copy of the portal page and the rules: Website Update 71 (rules version 46)."
+  },
+  {
+   "key": "attendance",
+   "name": "Beacon Attendance",
+   "version": "1.28.2",
+   "program_version": "4.35.3",
+   "tag": "attendance-v1.28.2",
+   "file": "Beacon_Attendance_Setup_1.28.2.zip",
+   "size": 43112504,
+   "date": "2026-11-20",
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.2/Beacon_Attendance_Setup_1.28.2.zip",
+   "whats_new": "v4.35.3 - SEE THE PORTAL AS THIS MEMBER SHOWS THE CURRENT PORTAL\n  - Member Portal → See the Portal as This Member now opens the portal as it is PUBLISHED (read from the church's website),\n    so a Website Update published from Beacon Pastor shows here at once. The yellow bar says which version it shows. Without\n    internet it uses this program's own copy (now Website Update 71) and says so.\n  - This program's copy of the portal page and the rules: Website Update 71 (rules version 46)."
+  },
+  {
+   "key": "admin",
+   "name": "Beacon Admin",
+   "version": "1.26.0",
+   "program_version": "1.26.0",
+   "tag": "admin-v1.26.0",
+   "file": "Beacon_Admin_Setup_1.26.0.zip",
+   "size": 20176430,
+   "date": "2026-11-20",
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/admin-v1.26.0/Beacon_Admin_Setup_1.26.0.zip",
+   "whats_new": "NEW IN 1.26.0: Settings and Online & Sharing pages scroll (nothing cropped). Shared schedule now has the same choices as Beacon Finance: Sync Now (combine), Use the Drive copy, Force upload, Choose items (Download / Upload / Ignore each difference), and Restore points."
+  },
+  {
+   "key": "camhost",
+   "name": "Beacon Cam Host",
+   "version": "0.6.0",
+   "program_version": "0.6.0",
+   "tag": "camhost-v0.6.0",
+   "file": "BeaconCamHost-Setup-0.6.0.zip",
+   "size": 22638297,
+   "date": "2026-11-20",
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/camhost-v0.6.0/BeaconCamHost-Setup-0.6.0.zip",
+   "whats_new": ""
+  }
+ ]
+}
