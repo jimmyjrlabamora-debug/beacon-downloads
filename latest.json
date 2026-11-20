@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T14:55:56Z",
+ "updated": "2026-11-20T15:44:51Z",
  "apps": [
   {
    "key": "finance",
@@ -16,26 +16,26 @@
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.6",
-   "program_version": "4.36.3",
-   "tag": "secretary-v1.28.6",
-   "file": "Beacon_Secretary_Setup_1.28.6.zip",
-   "size": 43136242,
+   "version": "1.28.7",
+   "program_version": "4.36.4",
+   "tag": "secretary-v1.28.7",
+   "file": "Beacon_Secretary_Setup_1.28.7.zip",
+   "size": 43145126,
    "date": "2026-11-20",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.6/Beacon_Secretary_Setup_1.28.6.zip",
-   "whats_new": "v4.36.3 (Website Update 77) - only this program's copy of the portal page is newer: the prayer items are numbered and the group\n  shares them among themselves (no automatic share)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.7/Beacon_Secretary_Setup_1.28.7.zip",
+   "whats_new": "v4.36.4 - THE PRAYER GROUPS EDITED IN THE PORTAL (and Website Update 78)\n  - In the member portal (Ministry → Meetings → Prayer groups → ✎ Edit the groups), the secretary (or whoever makes the\n    groups of that meeting) can swap two people, move someone to another group, take someone out of the groups with a note\n    (e.g. \"playing the keyboard\") and put them back. A change counts from the round shown on.\n  - Here, Meetings… → Prayer groups shows \"Not in a group\" with the note (or \"came late, not placed yet\"). Someone taken\n    out is not added with \"Add the late arrivals\" and stays out when the groups are made again.\n  - This program's copy of the portal page: Website Update 78 (rules version 47, unchanged)."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.6",
-   "program_version": "4.36.3",
-   "tag": "attendance-v1.28.6",
-   "file": "Beacon_Attendance_Setup_1.28.6.zip",
-   "size": 43136210,
+   "version": "1.28.7",
+   "program_version": "4.36.4",
+   "tag": "attendance-v1.28.7",
+   "file": "Beacon_Attendance_Setup_1.28.7.zip",
+   "size": 43141355,
    "date": "2026-11-20",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.6/Beacon_Attendance_Setup_1.28.6.zip",
-   "whats_new": "v4.36.3 (Website Update 77) - only this program's copy of the portal page is newer: the prayer items are numbered and the group\n  shares them among themselves (no automatic share)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.7/Beacon_Attendance_Setup_1.28.7.zip",
+   "whats_new": "v4.36.4 - THE PRAYER GROUPS EDITED IN THE PORTAL (and Website Update 78)\n  - In the member portal (Ministry → Meetings → Prayer groups → ✎ Edit the groups), the secretary (or whoever makes the\n    groups of that meeting) can swap two people, move someone to another group, take someone out of the groups with a note\n    (e.g. \"playing the keyboard\") and put them back. A change counts from the round shown on.\n  - Here, Meetings… → Prayer groups shows \"Not in a group\" with the note (or \"came late, not placed yet\"). Someone taken\n    out is not added with \"Add the late arrivals\" and stays out when the groups are made again.\n  - This program's copy of the portal page: Website Update 78 (rules version 47, unchanged)."
   },
   {
    "key": "admin",
