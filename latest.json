@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T15:44:51Z",
+ "updated": "2026-11-20T15:56:12Z",
  "apps": [
   {
    "key": "finance",
@@ -16,26 +16,26 @@
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.7",
-   "program_version": "4.36.4",
-   "tag": "secretary-v1.28.7",
-   "file": "Beacon_Secretary_Setup_1.28.7.zip",
-   "size": 43145126,
+   "version": "1.28.8",
+   "program_version": "4.36.5",
+   "tag": "secretary-v1.28.8",
+   "file": "Beacon_Secretary_Setup_1.28.8.zip",
+   "size": 43140381,
    "date": "2026-11-20",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.7/Beacon_Secretary_Setup_1.28.7.zip",
-   "whats_new": "v4.36.4 - THE PRAYER GROUPS EDITED IN THE PORTAL (and Website Update 78)\n  - In the member portal (Ministry → Meetings → Prayer groups → ✎ Edit the groups), the secretary (or whoever makes the\n    groups of that meeting) can swap two people, move someone to another group, take someone out of the groups with a note\n    (e.g. \"playing the keyboard\") and put them back. A change counts from the round shown on.\n  - Here, Meetings… → Prayer groups shows \"Not in a group\" with the note (or \"came late, not placed yet\"). Someone taken\n    out is not added with \"Add the late arrivals\" and stays out when the groups are made again.\n  - This program's copy of the portal page: Website Update 78 (rules version 47, unchanged)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.8/Beacon_Secretary_Setup_1.28.8.zip",
+   "whats_new": "v4.36.5 - THE PRAYER GROUPS EDITED IN THE PORTAL, FIXED (and Website Update 79)\n  - While the secretary edits the groups on the phone, the box \"Not in a group\" (with the notes) now stays on the screen, so\n    someone taken out, or present but left out, can be put back or added to a group. Nothing else changed here.\n  - This program's copy of the portal page: Website Update 79 (rules version 47, unchanged)."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.7",
-   "program_version": "4.36.4",
-   "tag": "attendance-v1.28.7",
-   "file": "Beacon_Attendance_Setup_1.28.7.zip",
-   "size": 43141355,
+   "version": "1.28.8",
+   "program_version": "4.36.5",
+   "tag": "attendance-v1.28.8",
+   "file": "Beacon_Attendance_Setup_1.28.8.zip",
+   "size": 43145103,
    "date": "2026-11-20",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.7/Beacon_Attendance_Setup_1.28.7.zip",
-   "whats_new": "v4.36.4 - THE PRAYER GROUPS EDITED IN THE PORTAL (and Website Update 78)\n  - In the member portal (Ministry → Meetings → Prayer groups → ✎ Edit the groups), the secretary (or whoever makes the\n    groups of that meeting) can swap two people, move someone to another group, take someone out of the groups with a note\n    (e.g. \"playing the keyboard\") and put them back. A change counts from the round shown on.\n  - Here, Meetings… → Prayer groups shows \"Not in a group\" with the note (or \"came late, not placed yet\"). Someone taken\n    out is not added with \"Add the late arrivals\" and stays out when the groups are made again.\n  - This program's copy of the portal page: Website Update 78 (rules version 47, unchanged)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.8/Beacon_Attendance_Setup_1.28.8.zip",
+   "whats_new": "v4.36.5 - THE PRAYER GROUPS EDITED IN THE PORTAL, FIXED (and Website Update 79)\n  - While the secretary edits the groups on the phone, the box \"Not in a group\" (with the notes) now stays on the screen, so\n    someone taken out, or present but left out, can be put back or added to a group. Nothing else changed here.\n  - This program's copy of the portal page: Website Update 79 (rules version 47, unchanged)."
   },
   {
    "key": "admin",
