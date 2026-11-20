@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T19:33:50Z",
+ "updated": "2026-11-20T19:40:02Z",
  "apps": [
   {
    "key": "finance",
@@ -16,26 +16,26 @@
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.21",
-   "program_version": "4.38.7",
-   "tag": "secretary-v1.28.21",
-   "file": "Beacon_Secretary_Setup_1.28.21.zip",
-   "size": 43154833,
+   "version": "1.28.22",
+   "program_version": "4.38.8",
+   "tag": "secretary-v1.28.22",
+   "file": "Beacon_Secretary_Setup_1.28.22.zip",
+   "size": 43158744,
    "date": "2026-11-20",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.21/Beacon_Secretary_Setup_1.28.21.zip",
-   "whats_new": "v4.38.7 - SAVE TO USUAL POINTS\n  - Meetings… → Prayer groups → 1 Prayer points: \"Save to usual points\", next to \"Use the usual points\". The points with their\n    items (and which go together, and the number of groups) become the usual ones of this kind of meeting; this meeting's\n    groups are not touched. They go to the phones at once when this computer is signed in to the portal.\n  - \"Publish to the portal\" does the same and also gives this meeting's groups the new points."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.22/Beacon_Secretary_Setup_1.28.22.zip",
+   "whats_new": "v4.38.8 - THE MEETINGS WINDOW'S COLOURS ON A MAC\n  - The Meetings window turns every colour of the theme into #RRGGBB first. A Mac can name a colour instead\n    (systemWindowBackgroundColor), which stopped the window from opening when no Appearance colours were set.\n  - The test that opens the Meetings window is skipped on a Mac like the other window tests (it ran the Mac's window\n    system inside the tests and stopped them); it still runs on Windows. Nothing else changed."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.21",
-   "program_version": "4.38.7",
-   "tag": "attendance-v1.28.21",
-   "file": "Beacon_Attendance_Setup_1.28.21.zip",
-   "size": 43151507,
+   "version": "1.28.22",
+   "program_version": "4.38.8",
+   "tag": "attendance-v1.28.22",
+   "file": "Beacon_Attendance_Setup_1.28.22.zip",
+   "size": 43157079,
    "date": "2026-11-20",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.21/Beacon_Attendance_Setup_1.28.21.zip",
-   "whats_new": "v4.38.7 - SAVE TO USUAL POINTS\n  - Meetings… → Prayer groups → 1 Prayer points: \"Save to usual points\", next to \"Use the usual points\". The points with their\n    items (and which go together, and the number of groups) become the usual ones of this kind of meeting; this meeting's\n    groups are not touched. They go to the phones at once when this computer is signed in to the portal.\n  - \"Publish to the portal\" does the same and also gives this meeting's groups the new points."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.22/Beacon_Attendance_Setup_1.28.22.zip",
+   "whats_new": "v4.38.8 - THE MEETINGS WINDOW'S COLOURS ON A MAC\n  - The Meetings window turns every colour of the theme into #RRGGBB first. A Mac can name a colour instead\n    (systemWindowBackgroundColor), which stopped the window from opening when no Appearance colours were set.\n  - The test that opens the Meetings window is skipped on a Mac like the other window tests (it ran the Mac's window\n    system inside the tests and stopped them); it still runs on Windows. Nothing else changed."
   },
   {
    "key": "admin",
