@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T16:51:09Z",
+ "updated": "2026-11-20T17:20:16Z",
  "apps": [
   {
    "key": "finance",
@@ -16,26 +16,26 @@
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.9",
-   "program_version": "4.36.6",
-   "tag": "secretary-v1.28.9",
-   "file": "Beacon_Secretary_Setup_1.28.9.zip",
-   "size": 43143832,
+   "version": "1.28.10",
+   "program_version": "4.36.7",
+   "tag": "secretary-v1.28.10",
+   "file": "Beacon_Secretary_Setup_1.28.10.zip",
+   "size": 43145785,
    "date": "2026-11-20",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.9/Beacon_Secretary_Setup_1.28.9.zip",
-   "whats_new": "v4.36.6 - WHICH PRAYER POINTS ARE MERGED, SORTABLE TABLES (and Website Update 80)\n  - Meetings… → Prayer groups: \"Which points go together…\" lets the secretary choose the group of each prayer point (points with the\n    same group are put together). The number of groups can be changed the same way as before, then Make new groups.\n  - Meetings… → Take attendance, Setup (kinds of meeting, each member's prayer category) and History: click a column heading to\n    sort the table by it (click again for the other way).\n  - The member portal does the same (Ministry → Meetings → Prayer groups: Number of groups, and the group of each point).\n  - This program's copy of the portal page: Website Update 80 (rules version 47, unchanged)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.10/Beacon_Secretary_Setup_1.28.10.zip",
+   "whats_new": "v4.36.7 - THE NUMBER OF GROUPS CAN BE TYPED (and Website Update 81)\n  - Meetings… → Prayer groups: the Number of groups box is no longer filled in again while you type; an empty or too big number is\n    put right when you leave the box.\n  - A change of the prayer categories (Set for the selected, Fill the empty ones, Save the categories) goes to the phones at once;\n    before, only at the next sync. Groups already made show each person's category as it is now (make new groups to balance them).\n  - The member portal does the same, and its Prayer groups card is in 3 numbered parts: 1 prayer points and groups (folded once the\n    groups are made), 2 the groups, 3 on the screen.\n  - This program's copy of the portal page: Website Update 81 (rules version 47, unchanged)."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.9",
-   "program_version": "4.36.6",
-   "tag": "attendance-v1.28.9",
-   "file": "Beacon_Attendance_Setup_1.28.9.zip",
-   "size": 43142083,
+   "version": "1.28.10",
+   "program_version": "4.36.7",
+   "tag": "attendance-v1.28.10",
+   "file": "Beacon_Attendance_Setup_1.28.10.zip",
+   "size": 43145947,
    "date": "2026-11-20",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.9/Beacon_Attendance_Setup_1.28.9.zip",
-   "whats_new": "v4.36.6 - WHICH PRAYER POINTS ARE MERGED, SORTABLE TABLES (and Website Update 80)\n  - Meetings… → Prayer groups: \"Which points go together…\" lets the secretary choose the group of each prayer point (points with the\n    same group are put together). The number of groups can be changed the same way as before, then Make new groups.\n  - Meetings… → Take attendance, Setup (kinds of meeting, each member's prayer category) and History: click a column heading to\n    sort the table by it (click again for the other way).\n  - The member portal does the same (Ministry → Meetings → Prayer groups: Number of groups, and the group of each point).\n  - This program's copy of the portal page: Website Update 80 (rules version 47, unchanged)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.10/Beacon_Attendance_Setup_1.28.10.zip",
+   "whats_new": "v4.36.7 - THE NUMBER OF GROUPS CAN BE TYPED (and Website Update 81)\n  - Meetings… → Prayer groups: the Number of groups box is no longer filled in again while you type; an empty or too big number is\n    put right when you leave the box.\n  - A change of the prayer categories (Set for the selected, Fill the empty ones, Save the categories) goes to the phones at once;\n    before, only at the next sync. Groups already made show each person's category as it is now (make new groups to balance them).\n  - The member portal does the same, and its Prayer groups card is in 3 numbered parts: 1 prayer points and groups (folded once the\n    groups are made), 2 the groups, 3 on the screen.\n  - This program's copy of the portal page: Website Update 81 (rules version 47, unchanged)."
   },
   {
    "key": "admin",
