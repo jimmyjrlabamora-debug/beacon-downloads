@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T17:58:45Z",
+ "updated": "2026-11-20T18:09:36Z",
  "apps": [
   {
    "key": "finance",
@@ -16,26 +16,26 @@
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.13",
-   "program_version": "4.37.1",
-   "tag": "secretary-v1.28.13",
-   "file": "Beacon_Secretary_Setup_1.28.13.zip",
-   "size": 43146299,
+   "version": "1.28.14",
+   "program_version": "4.38.0",
+   "tag": "secretary-v1.28.14",
+   "file": "Beacon_Secretary_Setup_1.28.14.zip",
+   "size": 43148940,
    "date": "2026-11-20",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.13/Beacon_Secretary_Setup_1.28.13.zip",
-   "whats_new": "v4.37.1 - ITS COPY OF THE PORTAL PAGE (Website Update 83)\n  - Nothing else changed in this program. In the portal, Meetings → Prayer groups shows Beacon Presenter's address under\n    Send to Beacon Presenter, with Change the address."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.14/Beacon_Secretary_Setup_1.28.14.zip",
+   "whats_new": "v4.38.0 - PRAYER GROUPS: ONE ROUND A WEEK, THE EARLIER MEETINGS REMEMBERED (and Website Update 84)\n  - Make the groups now makes this week's groups only (one round, one picture for the screen). Each person is put where the\n    prayer points are the ones they had the longest ago (or never), with people they were not with lately; every prayer\n    category is still spread evenly over the groups. The last 8 prayer meetings of the same kind are remembered.\n  - Groups made before (a round for each group) still show their rounds.\n  - The member portal does the same (Website Update 84)."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.13",
-   "program_version": "4.37.1",
-   "tag": "attendance-v1.28.13",
-   "file": "Beacon_Attendance_Setup_1.28.13.zip",
-   "size": 43147540,
+   "version": "1.28.14",
+   "program_version": "4.38.0",
+   "tag": "attendance-v1.28.14",
+   "file": "Beacon_Attendance_Setup_1.28.14.zip",
+   "size": 43152057,
    "date": "2026-11-20",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.13/Beacon_Attendance_Setup_1.28.13.zip",
-   "whats_new": "v4.37.1 - ITS COPY OF THE PORTAL PAGE (Website Update 83)\n  - Nothing else changed in this program. In the portal, Meetings → Prayer groups shows Beacon Presenter's address under\n    Send to Beacon Presenter, with Change the address."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.14/Beacon_Attendance_Setup_1.28.14.zip",
+   "whats_new": "v4.38.0 - PRAYER GROUPS: ONE ROUND A WEEK, THE EARLIER MEETINGS REMEMBERED (and Website Update 84)\n  - Make the groups now makes this week's groups only (one round, one picture for the screen). Each person is put where the\n    prayer points are the ones they had the longest ago (or never), with people they were not with lately; every prayer\n    category is still spread evenly over the groups. The last 8 prayer meetings of the same kind are remembered.\n  - Groups made before (a round for each group) still show their rounds.\n  - The member portal does the same (Website Update 84)."
   },
   {
    "key": "admin",
