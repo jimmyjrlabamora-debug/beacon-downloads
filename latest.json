@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T14:38:12Z",
+ "updated": "2026-11-20T14:41:48Z",
  "apps": [
   {
    "key": "finance",
@@ -16,26 +16,26 @@
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.4",
-   "program_version": "4.36.1",
-   "tag": "secretary-v1.28.4",
-   "file": "Beacon_Secretary_Setup_1.28.4.zip",
-   "size": 43136250,
+   "version": "1.28.5",
+   "program_version": "4.36.2",
+   "tag": "secretary-v1.28.5",
+   "file": "Beacon_Secretary_Setup_1.28.5.zip",
+   "size": 43141539,
    "date": "2026-11-20",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.4/Beacon_Secretary_Setup_1.28.4.zip",
-   "whats_new": "v4.36.1 - THE PRAYER GROUPINGS AS ONE 16:9 PICTURE PER ROUND (and Website Update 75)\n  - Meetings… → Prayer groups → Pictures for the screen…: one 1920 × 1080 picture of the GROUPINGS table for each round, for\n    Beacon Presenter (it replaces \"Save file for Beacon Presenter…\").\n  - This program's copy of the portal page: Website Update 75 (rules version 47)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.5/Beacon_Secretary_Setup_1.28.5.zip",
+   "whats_new": "v4.36.2 - THE GROUPINGS PICTURE WITHOUT THE ROUND (and Website Update 76)\n  - The pictures for the screen say only GROUPINGS (no \"· ROUND 2\"). This program's copy of the portal page: Website Update 76."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.4",
-   "program_version": "4.36.1",
-   "tag": "attendance-v1.28.4",
-   "file": "Beacon_Attendance_Setup_1.28.4.zip",
-   "size": 43137320,
+   "version": "1.28.5",
+   "program_version": "4.36.2",
+   "tag": "attendance-v1.28.5",
+   "file": "Beacon_Attendance_Setup_1.28.5.zip",
+   "size": 43135511,
    "date": "2026-11-20",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.4/Beacon_Attendance_Setup_1.28.4.zip",
-   "whats_new": "v4.36.1 - THE PRAYER GROUPINGS AS ONE 16:9 PICTURE PER ROUND (and Website Update 75)\n  - Meetings… → Prayer groups → Pictures for the screen…: one 1920 × 1080 picture of the GROUPINGS table for each round, for\n    Beacon Presenter (it replaces \"Save file for Beacon Presenter…\").\n  - This program's copy of the portal page: Website Update 75 (rules version 47)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.5/Beacon_Attendance_Setup_1.28.5.zip",
+   "whats_new": "v4.36.2 - THE GROUPINGS PICTURE WITHOUT THE ROUND (and Website Update 76)\n  - The pictures for the screen say only GROUPINGS (no \"· ROUND 2\"). This program's copy of the portal page: Website Update 76."
   },
   {
    "key": "admin",
