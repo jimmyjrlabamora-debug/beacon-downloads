@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T19:29:58Z",
+ "updated": "2026-11-20T19:33:50Z",
  "apps": [
   {
    "key": "finance",
@@ -16,26 +16,26 @@
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.20",
-   "program_version": "4.38.6",
-   "tag": "secretary-v1.28.20",
-   "file": "Beacon_Secretary_Setup_1.28.20.zip",
-   "size": 43155274,
+   "version": "1.28.21",
+   "program_version": "4.38.7",
+   "tag": "secretary-v1.28.21",
+   "file": "Beacon_Secretary_Setup_1.28.21.zip",
+   "size": 43154833,
    "date": "2026-11-20",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.20/Beacon_Secretary_Setup_1.28.20.zip",
-   "whats_new": "v4.38.6 - NO EMPTY GROUP AFTER RENAMING POINTS; ALL GROUPS CAN BE SEEN (and Website Update 89)\n  - When prayer points were renamed or added since last time (\"Guidance and Protection 1\" → \"Guidance 1\"), last time's merges\n    could leave a group without a point (\"Group 5 has no prayer point\"). Now an empty group takes a point from the group with\n    the most points; the points found by name keep their group, and the urgent requests stay in the last group.\n  - Prayer groups → The groups: a scroll bar, so all the groups can be seen (with 8 groups some were hidden).\n  - The member portal does the same (Website Update 89)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.21/Beacon_Secretary_Setup_1.28.21.zip",
+   "whats_new": "v4.38.7 - SAVE TO USUAL POINTS\n  - Meetings… → Prayer groups → 1 Prayer points: \"Save to usual points\", next to \"Use the usual points\". The points with their\n    items (and which go together, and the number of groups) become the usual ones of this kind of meeting; this meeting's\n    groups are not touched. They go to the phones at once when this computer is signed in to the portal.\n  - \"Publish to the portal\" does the same and also gives this meeting's groups the new points."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.20",
-   "program_version": "4.38.6",
-   "tag": "attendance-v1.28.20",
-   "file": "Beacon_Attendance_Setup_1.28.20.zip",
-   "size": 43152638,
+   "version": "1.28.21",
+   "program_version": "4.38.7",
+   "tag": "attendance-v1.28.21",
+   "file": "Beacon_Attendance_Setup_1.28.21.zip",
+   "size": 43151507,
    "date": "2026-11-20",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.20/Beacon_Attendance_Setup_1.28.20.zip",
-   "whats_new": "v4.38.6 - NO EMPTY GROUP AFTER RENAMING POINTS; ALL GROUPS CAN BE SEEN (and Website Update 89)\n  - When prayer points were renamed or added since last time (\"Guidance and Protection 1\" → \"Guidance 1\"), last time's merges\n    could leave a group without a point (\"Group 5 has no prayer point\"). Now an empty group takes a point from the group with\n    the most points; the points found by name keep their group, and the urgent requests stay in the last group.\n  - Prayer groups → The groups: a scroll bar, so all the groups can be seen (with 8 groups some were hidden).\n  - The member portal does the same (Website Update 89)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.21/Beacon_Attendance_Setup_1.28.21.zip",
+   "whats_new": "v4.38.7 - SAVE TO USUAL POINTS\n  - Meetings… → Prayer groups → 1 Prayer points: \"Save to usual points\", next to \"Use the usual points\". The points with their\n    items (and which go together, and the number of groups) become the usual ones of this kind of meeting; this meeting's\n    groups are not touched. They go to the phones at once when this computer is signed in to the portal.\n  - \"Publish to the portal\" does the same and also gives this meeting's groups the new points."
   },
   {
    "key": "admin",
