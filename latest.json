@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T14:41:48Z",
+ "updated": "2026-11-20T14:55:56Z",
  "apps": [
   {
    "key": "finance",
@@ -16,26 +16,26 @@
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.5",
-   "program_version": "4.36.2",
-   "tag": "secretary-v1.28.5",
-   "file": "Beacon_Secretary_Setup_1.28.5.zip",
-   "size": 43141539,
+   "version": "1.28.6",
+   "program_version": "4.36.3",
+   "tag": "secretary-v1.28.6",
+   "file": "Beacon_Secretary_Setup_1.28.6.zip",
+   "size": 43136242,
    "date": "2026-11-20",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.5/Beacon_Secretary_Setup_1.28.5.zip",
-   "whats_new": "v4.36.2 - THE GROUPINGS PICTURE WITHOUT THE ROUND (and Website Update 76)\n  - The pictures for the screen say only GROUPINGS (no \"· ROUND 2\"). This program's copy of the portal page: Website Update 76."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.6/Beacon_Secretary_Setup_1.28.6.zip",
+   "whats_new": "v4.36.3 (Website Update 77) - only this program's copy of the portal page is newer: the prayer items are numbered and the group\n  shares them among themselves (no automatic share)."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.5",
-   "program_version": "4.36.2",
-   "tag": "attendance-v1.28.5",
-   "file": "Beacon_Attendance_Setup_1.28.5.zip",
-   "size": 43135511,
+   "version": "1.28.6",
+   "program_version": "4.36.3",
+   "tag": "attendance-v1.28.6",
+   "file": "Beacon_Attendance_Setup_1.28.6.zip",
+   "size": 43136210,
    "date": "2026-11-20",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.5/Beacon_Attendance_Setup_1.28.5.zip",
-   "whats_new": "v4.36.2 - THE GROUPINGS PICTURE WITHOUT THE ROUND (and Website Update 76)\n  - The pictures for the screen say only GROUPINGS (no \"· ROUND 2\"). This program's copy of the portal page: Website Update 76."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.6/Beacon_Attendance_Setup_1.28.6.zip",
+   "whats_new": "v4.36.3 (Website Update 77) - only this program's copy of the portal page is newer: the prayer items are numbered and the group\n  shares them among themselves (no automatic share)."
   },
   {
    "key": "admin",
