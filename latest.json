@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T19:15:11Z",
+ "updated": "2026-11-20T19:20:24Z",
  "apps": [
   {
    "key": "finance",
@@ -16,26 +16,26 @@
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.17",
-   "program_version": "4.38.3",
-   "tag": "secretary-v1.28.17",
-   "file": "Beacon_Secretary_Setup_1.28.17.zip",
-   "size": 43152858,
+   "version": "1.28.18",
+   "program_version": "4.38.4",
+   "tag": "secretary-v1.28.18",
+   "file": "Beacon_Secretary_Setup_1.28.18.zip",
+   "size": 43154795,
    "date": "2026-11-20",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.17/Beacon_Secretary_Setup_1.28.17.zip",
-   "whats_new": "v4.38.3 - PASTED PRAYER ITEMS (and Website Update 87)\n  - Meetings… → Prayer groups: a list pasted into the prayer items goes in once, without its numbers or bullets (the members\n    see the items numbered), and an item that is already there is not added again. Items saved before are cleaned the same way.\n  - The member portal does the same (Website Update 87)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.18/Beacon_Secretary_Setup_1.28.18.zip",
+   "whats_new": "v4.38.4 - CTRL+A SELECTS ALL IN THE PRAYER ITEMS\n  - Meetings… → Prayer groups: Ctrl+A (Cmd+A on the Mac) now selects all the prayer items, so \"select all, paste\" replaces\n    them. Before, Ctrl+A only went to the start of the line, and the pasted items went in among the old ones. The same in the\n    point's name and the prayer categories box."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.17",
-   "program_version": "4.38.3",
-   "tag": "attendance-v1.28.17",
-   "file": "Beacon_Attendance_Setup_1.28.17.zip",
-   "size": 43150017,
+   "version": "1.28.18",
+   "program_version": "4.38.4",
+   "tag": "attendance-v1.28.18",
+   "file": "Beacon_Attendance_Setup_1.28.18.zip",
+   "size": 43153463,
    "date": "2026-11-20",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.17/Beacon_Attendance_Setup_1.28.17.zip",
-   "whats_new": "v4.38.3 - PASTED PRAYER ITEMS (and Website Update 87)\n  - Meetings… → Prayer groups: a list pasted into the prayer items goes in once, without its numbers or bullets (the members\n    see the items numbered), and an item that is already there is not added again. Items saved before are cleaned the same way.\n  - The member portal does the same (Website Update 87)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.18/Beacon_Attendance_Setup_1.28.18.zip",
+   "whats_new": "v4.38.4 - CTRL+A SELECTS ALL IN THE PRAYER ITEMS\n  - Meetings… → Prayer groups: Ctrl+A (Cmd+A on the Mac) now selects all the prayer items, so \"select all, paste\" replaces\n    them. Before, Ctrl+A only went to the start of the line, and the pasted items went in among the old ones. The same in the\n    point's name and the prayer categories box."
   },
   {
    "key": "admin",
