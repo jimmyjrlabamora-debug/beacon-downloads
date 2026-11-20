@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T14:34:21Z",
+ "updated": "2026-11-20T14:38:12Z",
  "apps": [
   {
    "key": "finance",
@@ -16,26 +16,26 @@
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.3",
-   "program_version": "4.36.0",
-   "tag": "secretary-v1.28.3",
-   "file": "Beacon_Secretary_Setup_1.28.3.zip",
-   "size": 43136894,
+   "version": "1.28.4",
+   "program_version": "4.36.1",
+   "tag": "secretary-v1.28.4",
+   "file": "Beacon_Secretary_Setup_1.28.4.zip",
+   "size": 43136250,
    "date": "2026-11-20",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.3/Beacon_Secretary_Setup_1.28.3.zip",
-   "whats_new": "v4.36.0 - MEETINGS ON THE PHONE, PRAYER GROUPS, THE 4 SUNDAY QR CARDS (and Website Update 74)\n  - Attendance page → Meetings…: prayer meeting, Bible study, men's and women's fellowship.\n    · Take attendance: tick who is present (here or on the phone: the same list, at once). Add a visitor who is not on the\n      list: they join the Visitors list.\n    · Setup: the kinds of meeting and, for each, who takes the attendance on the phone (the secretary, someone she chooses\n      when she is away, a fellowship's leader or representative). They see Ministry → Meetings in the member portal.\n      The prayer categories (Adult men leaders, Adult women leaders, Male / Female youth leaders, Members, Visitors …) and\n      each member's prayer category (\"Fill the empty ones\" makes a first guess from age group, gender and Leads).\n      The usual prayer points of a prayer meeting (Family, Guidance and Protection, Salvation …) with their prayer items.\n    · Prayer groups: from those present. Each group has people of every category; Next round moves everyone to another prayer\n      point and keeps the mix (every round, every person a different point). Fewer groups than points puts points together.\n      The prayer requests the members shared with the prayer team are added as Urgent prayer requests and Special requests.\n      Late arrivals are added to the groups. Those present see their group in the portal (Church → Prayer meeting).\n      Picture for the screen… (the GROUPINGS table of the round) and Save file for Beacon Presenter… (a playlist).\n    · History: the meetings brought in (every sync brings the last 60 days).\n  - Check-in QR cards (Meetings… → Setup): print 4 cards; with \"Use the 4 printed cards on Sundays\" ticked, a Sunday check-in\n    uses that Sunday's card (1st Sunday card 1 … 4th card 4, a 5th Sunday card 1). A card works only on its Sundays and only\n    while the check-in is open.\n  - This program's copy of the portal page and the rules: Website Update 74 (rules version 47)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.4/Beacon_Secretary_Setup_1.28.4.zip",
+   "whats_new": "v4.36.1 - THE PRAYER GROUPINGS AS ONE 16:9 PICTURE PER ROUND (and Website Update 75)\n  - Meetings… → Prayer groups → Pictures for the screen…: one 1920 × 1080 picture of the GROUPINGS table for each round, for\n    Beacon Presenter (it replaces \"Save file for Beacon Presenter…\").\n  - This program's copy of the portal page: Website Update 75 (rules version 47)."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.3",
-   "program_version": "4.36.0",
-   "tag": "attendance-v1.28.3",
-   "file": "Beacon_Attendance_Setup_1.28.3.zip",
-   "size": 43138373,
+   "version": "1.28.4",
+   "program_version": "4.36.1",
+   "tag": "attendance-v1.28.4",
+   "file": "Beacon_Attendance_Setup_1.28.4.zip",
+   "size": 43137320,
    "date": "2026-11-20",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.3/Beacon_Attendance_Setup_1.28.3.zip",
-   "whats_new": "v4.36.0 - MEETINGS ON THE PHONE, PRAYER GROUPS, THE 4 SUNDAY QR CARDS (and Website Update 74)\n  - Attendance page → Meetings…: prayer meeting, Bible study, men's and women's fellowship.\n    · Take attendance: tick who is present (here or on the phone: the same list, at once). Add a visitor who is not on the\n      list: they join the Visitors list.\n    · Setup: the kinds of meeting and, for each, who takes the attendance on the phone (the secretary, someone she chooses\n      when she is away, a fellowship's leader or representative). They see Ministry → Meetings in the member portal.\n      The prayer categories (Adult men leaders, Adult women leaders, Male / Female youth leaders, Members, Visitors …) and\n      each member's prayer category (\"Fill the empty ones\" makes a first guess from age group, gender and Leads).\n      The usual prayer points of a prayer meeting (Family, Guidance and Protection, Salvation …) with their prayer items.\n    · Prayer groups: from those present. Each group has people of every category; Next round moves everyone to another prayer\n      point and keeps the mix (every round, every person a different point). Fewer groups than points puts points together.\n      The prayer requests the members shared with the prayer team are added as Urgent prayer requests and Special requests.\n      Late arrivals are added to the groups. Those present see their group in the portal (Church → Prayer meeting).\n      Picture for the screen… (the GROUPINGS table of the round) and Save file for Beacon Presenter… (a playlist).\n    · History: the meetings brought in (every sync brings the last 60 days).\n  - Check-in QR cards (Meetings… → Setup): print 4 cards; with \"Use the 4 printed cards on Sundays\" ticked, a Sunday check-in\n    uses that Sunday's card (1st Sunday card 1 … 4th card 4, a 5th Sunday card 1). A card works only on its Sundays and only\n    while the check-in is open.\n  - This program's copy of the portal page and the rules: Website Update 74 (rules version 47)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.4/Beacon_Attendance_Setup_1.28.4.zip",
+   "whats_new": "v4.36.1 - THE PRAYER GROUPINGS AS ONE 16:9 PICTURE PER ROUND (and Website Update 75)\n  - Meetings… → Prayer groups → Pictures for the screen…: one 1920 × 1080 picture of the GROUPINGS table for each round, for\n    Beacon Presenter (it replaces \"Save file for Beacon Presenter…\").\n  - This program's copy of the portal page: Website Update 75 (rules version 47)."
   },
   {
    "key": "admin",
