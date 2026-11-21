@@ -1,41 +1,41 @@
 {
- "updated": "2026-11-21T01:38:58Z",
+ "updated": "2026-11-21T02:03:36Z",
  "apps": [
   {
    "key": "finance",
    "name": "Beacon Finance",
-   "version": "48.19.4",
-   "program_version": "48.19.4",
-   "tag": "finance-v48.19.4",
-   "file": "Beacon_Finance_Setup_48.19.4.zip",
-   "size": 26697580,
+   "version": "48.19.5",
+   "program_version": "48.19.5",
+   "tag": "finance-v48.19.5",
+   "file": "Beacon_Finance_Setup_48.19.5.zip",
+   "size": 26699545,
    "date": "2026-11-21",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/finance-v48.19.4/Beacon_Finance_Setup_48.19.4.zip",
-   "whats_new": "48.19.4  (November 2026)  SECURITY RULES 48 (EACH MEMBER'S MEETINGS ON THEIR HOME)\n  Online Giving → Copy Security Rules / Make Giving Page Files give rules version 48, the same as Website Update 92 (each\n  member sees the meetings they attended on their portal's Home as soon as they are ticked). Nothing else changed."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/finance-v48.19.5/Beacon_Finance_Setup_48.19.5.zip",
+   "whats_new": "48.19.5  (November 2026)  SECURITY RULES 49 (THE LEAD PASTOR SEES EVERY MEETING)\n  Online Giving → Copy Security Rules / Make Giving Page Files give rules version 49, the same as Website Update 93 (the\n  lead pastor reads every meeting and who came). Nothing else changed."
   },
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.26",
-   "program_version": "4.39.1",
-   "tag": "secretary-v1.28.26",
-   "file": "Beacon_Secretary_Setup_1.28.26.zip",
-   "size": 43161828,
+   "version": "1.28.27",
+   "program_version": "4.39.2",
+   "tag": "secretary-v1.28.27",
+   "file": "Beacon_Secretary_Setup_1.28.27.zip",
+   "size": 43159385,
    "date": "2026-11-21",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.26/Beacon_Secretary_Setup_1.28.26.zip",
-   "whats_new": "v4.39.1 - MEETINGS ON HOME AT ONCE; DELETE A MEETING; HISTORY FILTERS (and Website Update 92, security rules 48)\n  - A member ticked present on a phone sees it on their portal's Home at once (My attendance), without a sync here.\n    Each sync (and each tick here) writes every member's meetings of this year for that (my_meetings, meeting_index).\n  - Meetings… → History: filters (Meeting, Month), \"Update with the portal\" (brings in the phones' meetings and sends every\n    member's meetings to their Home now), and \"Delete this meeting…\" for a meeting taken by mistake, like a test: its\n    attendance and prayer groups are removed here, on the phones and from each member's Home.\n  - A meeting deleted on another computer within the last 60 days goes here too at the next sync.\n  - The meeting and date at the top of the window are shown only on Take attendance and Prayer groups (where they are used).\n  - Needs the security rules 48 (Website Update 92)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.27/Beacon_Secretary_Setup_1.28.27.zip",
+   "whats_new": "v4.39.2 - THE LEAD PASTOR SEES EVERY MEETING (and Website Update 93, security rules 49)\n  - The lead pastor (Online → Announcements → Leaders and officers → Lead pastor) sees in their portal, Ministry → Meetings →\n    All meetings, every meeting of the last 60 days and who came (members and visitors), with filters by meeting and month.\n  - Needs the security rules 49 (Website Update 93)."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.26",
-   "program_version": "4.39.1",
-   "tag": "attendance-v1.28.26",
-   "file": "Beacon_Attendance_Setup_1.28.26.zip",
-   "size": 43161742,
+   "version": "1.28.27",
+   "program_version": "4.39.2",
+   "tag": "attendance-v1.28.27",
+   "file": "Beacon_Attendance_Setup_1.28.27.zip",
+   "size": 43162648,
    "date": "2026-11-21",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.26/Beacon_Attendance_Setup_1.28.26.zip",
-   "whats_new": "v4.39.1 - MEETINGS ON HOME AT ONCE; DELETE A MEETING; HISTORY FILTERS (and Website Update 92, security rules 48)\n  - A member ticked present on a phone sees it on their portal's Home at once (My attendance), without a sync here.\n    Each sync (and each tick here) writes every member's meetings of this year for that (my_meetings, meeting_index).\n  - Meetings… → History: filters (Meeting, Month), \"Update with the portal\" (brings in the phones' meetings and sends every\n    member's meetings to their Home now), and \"Delete this meeting…\" for a meeting taken by mistake, like a test: its\n    attendance and prayer groups are removed here, on the phones and from each member's Home.\n  - A meeting deleted on another computer within the last 60 days goes here too at the next sync.\n  - The meeting and date at the top of the window are shown only on Take attendance and Prayer groups (where they are used).\n  - Needs the security rules 48 (Website Update 92)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.27/Beacon_Attendance_Setup_1.28.27.zip",
+   "whats_new": "v4.39.2 - THE LEAD PASTOR SEES EVERY MEETING (and Website Update 93, security rules 49)\n  - The lead pastor (Online → Announcements → Leaders and officers → Lead pastor) sees in their portal, Ministry → Meetings →\n    All meetings, every meeting of the last 60 days and who came (members and visitors), with filters by meeting and month.\n  - Needs the security rules 49 (Website Update 93)."
   },
   {
    "key": "admin",
