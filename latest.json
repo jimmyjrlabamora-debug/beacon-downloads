@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T02:03:36Z",
+ "updated": "2026-11-21T02:07:27Z",
  "apps": [
   {
    "key": "finance",
@@ -16,26 +16,26 @@
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.27",
-   "program_version": "4.39.2",
-   "tag": "secretary-v1.28.27",
-   "file": "Beacon_Secretary_Setup_1.28.27.zip",
-   "size": 43159385,
+   "version": "1.28.28",
+   "program_version": "4.39.3",
+   "tag": "secretary-v1.28.28",
+   "file": "Beacon_Secretary_Setup_1.28.28.zip",
+   "size": 43165330,
    "date": "2026-11-21",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.27/Beacon_Secretary_Setup_1.28.27.zip",
-   "whats_new": "v4.39.2 - THE LEAD PASTOR SEES EVERY MEETING (and Website Update 93, security rules 49)\n  - The lead pastor (Online → Announcements → Leaders and officers → Lead pastor) sees in their portal, Ministry → Meetings →\n    All meetings, every meeting of the last 60 days and who came (members and visitors), with filters by meeting and month.\n  - Needs the security rules 49 (Website Update 93)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.28/Beacon_Secretary_Setup_1.28.28.zip",
+   "whats_new": "v4.39.3 - OFFICERS AND THOSE CHOSEN SEE EVERY MEETING\n  - Portal → Ministry → Meetings → All meetings (every meeting of the last 60 days and who came) is now also for Officer: Admin\n    and Officer: Secretary, and for anyone chosen in Meetings… → Setup → \"Who sees all meetings…\". They see it after the\n    next sync. No website update is needed (Website Update 93 is enough)."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.27",
-   "program_version": "4.39.2",
-   "tag": "attendance-v1.28.27",
-   "file": "Beacon_Attendance_Setup_1.28.27.zip",
-   "size": 43162648,
+   "version": "1.28.28",
+   "program_version": "4.39.3",
+   "tag": "attendance-v1.28.28",
+   "file": "Beacon_Attendance_Setup_1.28.28.zip",
+   "size": 43156881,
    "date": "2026-11-21",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.27/Beacon_Attendance_Setup_1.28.27.zip",
-   "whats_new": "v4.39.2 - THE LEAD PASTOR SEES EVERY MEETING (and Website Update 93, security rules 49)\n  - The lead pastor (Online → Announcements → Leaders and officers → Lead pastor) sees in their portal, Ministry → Meetings →\n    All meetings, every meeting of the last 60 days and who came (members and visitors), with filters by meeting and month.\n  - Needs the security rules 49 (Website Update 93)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.28/Beacon_Attendance_Setup_1.28.28.zip",
+   "whats_new": "v4.39.3 - OFFICERS AND THOSE CHOSEN SEE EVERY MEETING\n  - Portal → Ministry → Meetings → All meetings (every meeting of the last 60 days and who came) is now also for Officer: Admin\n    and Officer: Secretary, and for anyone chosen in Meetings… → Setup → \"Who sees all meetings…\". They see it after the\n    next sync. No website update is needed (Website Update 93 is enough)."
   },
   {
    "key": "admin",
