@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T02:07:27Z",
+ "updated": "2026-11-21T03:08:12Z",
  "apps": [
   {
    "key": "finance",
@@ -16,26 +16,26 @@
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.28",
-   "program_version": "4.39.3",
-   "tag": "secretary-v1.28.28",
-   "file": "Beacon_Secretary_Setup_1.28.28.zip",
-   "size": 43165330,
+   "version": "1.28.29",
+   "program_version": "4.39.4",
+   "tag": "secretary-v1.28.29",
+   "file": "Beacon_Secretary_Setup_1.28.29.zip",
+   "size": 43163699,
    "date": "2026-11-21",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.28/Beacon_Secretary_Setup_1.28.28.zip",
-   "whats_new": "v4.39.3 - OFFICERS AND THOSE CHOSEN SEE EVERY MEETING\n  - Portal → Ministry → Meetings → All meetings (every meeting of the last 60 days and who came) is now also for Officer: Admin\n    and Officer: Secretary, and for anyone chosen in Meetings… → Setup → \"Who sees all meetings…\". They see it after the\n    next sync. No website update is needed (Website Update 93 is enough)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.29/Beacon_Secretary_Setup_1.28.29.zip",
+   "whats_new": "v4.39.4 - A FELLOWSHIP'S LIST ON THE PHONE (and Website Update 94)\n  - On the phone of the one who takes a fellowship's attendance, the list shows only the members of that ministry (Men's\n    fellowship → those with Men in their Ministry; Setup → the meeting → \"For the members of\" when the names differ), and\n    anyone already ticked. \"+ Someone else who came\" shows the whole list. Bible study and the prayer meeting list everyone.\n    Adding a visitor stays the same."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.28",
-   "program_version": "4.39.3",
-   "tag": "attendance-v1.28.28",
-   "file": "Beacon_Attendance_Setup_1.28.28.zip",
-   "size": 43156881,
+   "version": "1.28.29",
+   "program_version": "4.39.4",
+   "tag": "attendance-v1.28.29",
+   "file": "Beacon_Attendance_Setup_1.28.29.zip",
+   "size": 43159848,
    "date": "2026-11-21",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.28/Beacon_Attendance_Setup_1.28.28.zip",
-   "whats_new": "v4.39.3 - OFFICERS AND THOSE CHOSEN SEE EVERY MEETING\n  - Portal → Ministry → Meetings → All meetings (every meeting of the last 60 days and who came) is now also for Officer: Admin\n    and Officer: Secretary, and for anyone chosen in Meetings… → Setup → \"Who sees all meetings…\". They see it after the\n    next sync. No website update is needed (Website Update 93 is enough)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.29/Beacon_Attendance_Setup_1.28.29.zip",
+   "whats_new": "v4.39.4 - A FELLOWSHIP'S LIST ON THE PHONE (and Website Update 94)\n  - On the phone of the one who takes a fellowship's attendance, the list shows only the members of that ministry (Men's\n    fellowship → those with Men in their Ministry; Setup → the meeting → \"For the members of\" when the names differ), and\n    anyone already ticked. \"+ Someone else who came\" shows the whole list. Bible study and the prayer meeting list everyone.\n    Adding a visitor stays the same."
   },
   {
    "key": "admin",
