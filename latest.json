@@ -1,41 +1,41 @@
 {
- "updated": "2026-11-21T03:45:18Z",
+ "updated": "2026-11-21T04:09:43Z",
  "apps": [
   {
    "key": "finance",
    "name": "Beacon Finance",
-   "version": "48.19.5",
-   "program_version": "48.19.5",
-   "tag": "finance-v48.19.5",
-   "file": "Beacon_Finance_Setup_48.19.5.zip",
-   "size": 26699545,
+   "version": "48.19.6",
+   "program_version": "48.19.6",
+   "tag": "finance-v48.19.6",
+   "file": "Beacon_Finance_Setup_48.19.6.zip",
+   "size": 26701367,
    "date": "2026-11-21",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/finance-v48.19.5/Beacon_Finance_Setup_48.19.5.zip",
-   "whats_new": "48.19.5  (November 2026)  SECURITY RULES 49 (THE LEAD PASTOR SEES EVERY MEETING)\n  Online Giving → Copy Security Rules / Make Giving Page Files give rules version 49, the same as Website Update 93 (the\n  lead pastor reads every meeting and who came). Nothing else changed."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/finance-v48.19.6/Beacon_Finance_Setup_48.19.6.zip",
+   "whats_new": "48.19.6  (November 2026)  SECURITY RULES 50 (THE 4 PRINTED SUNDAY QR CARDS ARE SAVED ONLINE)\n  Online Giving → Copy Security Rules / Make Giving Page Files give rules version 50, the same as Website Update 95 (the\n  office saves the 4 printed check-in cards online so every Secretary computer uses the same ones). Nothing else changed."
   },
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.30",
-   "program_version": "4.39.5",
-   "tag": "secretary-v1.28.30",
-   "file": "Beacon_Secretary_Setup_1.28.30.zip",
-   "size": 43166212,
+   "version": "1.28.31",
+   "program_version": "4.39.6",
+   "tag": "secretary-v1.28.31",
+   "file": "Beacon_Secretary_Setup_1.28.31.zip",
+   "size": 43163639,
    "date": "2026-11-21",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.30/Beacon_Secretary_Setup_1.28.30.zip",
-   "whats_new": "v4.39.5 - THE SUNDAY CHECK-IN OPENS BY ITSELF (with the 4 printed cards)\n  - Check-in at church → Printed QR cards for Sundays → \"Open the check-in by itself every Sunday, from 6:00 AM to 1:00 PM\"\n    (the hours can be changed). Each Sunday's check-in then opens by itself with that Sunday's printed card (card 1 on the\n    1st Sunday … card 4 on the 4th, card 1 on a 5th Sunday). The cards already printed keep working; none are made again.\n  - It is opened a few days ahead, at a sync (every sync looks at the coming Sunday), so this computer only has to sync once\n    in the week before; it need not be on during the service. A Sunday opened or changed by hand keeps its hours, and a\n    Sunday's check-in deleted by hand is not opened again.\n  - The \"Checked in so far\" list is a little shorter on a small screen, so the window fits the church computer."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.31/Beacon_Secretary_Setup_1.28.31.zip",
+   "whats_new": "v4.39.6 - THE 4 PRINTED SUNDAY QR CARDS ARE THE SAME ON EVERY COMPUTER (and Website Update 95, security rules 50)\n  - The cards (and whether they are in use) are saved online (checkin_cards/current: only the office can read it, members\n    cannot). Each computer reads them at every sync, when it opens a check-in and when the Check-in window opens, so the\n    church computer opens Sunday's check-in with the same printed card as the secretary's computer.\n  - A change made on one computer (cards turned on or off, New cards…) is saved online at once; the other computers follow\n    at their next sync.\n  - Publish Website Update 95 once (rules 50). Until then each computer keeps its own cards, as before."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.30",
-   "program_version": "4.39.5",
-   "tag": "attendance-v1.28.30",
-   "file": "Beacon_Attendance_Setup_1.28.30.zip",
-   "size": 43164287,
+   "version": "1.28.31",
+   "program_version": "4.39.6",
+   "tag": "attendance-v1.28.31",
+   "file": "Beacon_Attendance_Setup_1.28.31.zip",
+   "size": 43159768,
    "date": "2026-11-21",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.30/Beacon_Attendance_Setup_1.28.30.zip",
-   "whats_new": "v4.39.5 - THE SUNDAY CHECK-IN OPENS BY ITSELF (with the 4 printed cards)\n  - Check-in at church → Printed QR cards for Sundays → \"Open the check-in by itself every Sunday, from 6:00 AM to 1:00 PM\"\n    (the hours can be changed). Each Sunday's check-in then opens by itself with that Sunday's printed card (card 1 on the\n    1st Sunday … card 4 on the 4th, card 1 on a 5th Sunday). The cards already printed keep working; none are made again.\n  - It is opened a few days ahead, at a sync (every sync looks at the coming Sunday), so this computer only has to sync once\n    in the week before; it need not be on during the service. A Sunday opened or changed by hand keeps its hours, and a\n    Sunday's check-in deleted by hand is not opened again.\n  - The \"Checked in so far\" list is a little shorter on a small screen, so the window fits the church computer."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.31/Beacon_Attendance_Setup_1.28.31.zip",
+   "whats_new": "v4.39.6 - THE 4 PRINTED SUNDAY QR CARDS ARE THE SAME ON EVERY COMPUTER (and Website Update 95, security rules 50)\n  - The cards (and whether they are in use) are saved online (checkin_cards/current: only the office can read it, members\n    cannot). Each computer reads them at every sync, when it opens a check-in and when the Check-in window opens, so the\n    church computer opens Sunday's check-in with the same printed card as the secretary's computer.\n  - A change made on one computer (cards turned on or off, New cards…) is saved online at once; the other computers follow\n    at their next sync.\n  - Publish Website Update 95 once (rules 50). Until then each computer keeps its own cards, as before."
   },
   {
    "key": "admin",
