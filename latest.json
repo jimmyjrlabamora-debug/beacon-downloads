@@ -1,41 +1,41 @@
 {
- "updated": "2026-11-21T00:52:06Z",
+ "updated": "2026-11-21T01:38:58Z",
  "apps": [
   {
    "key": "finance",
    "name": "Beacon Finance",
-   "version": "48.19.3",
-   "program_version": "48.19.3",
-   "tag": "finance-v48.19.3",
-   "file": "Beacon_Finance_Setup_48.19.3.zip",
-   "size": 26696530,
-   "date": "2026-11-20",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/finance-v48.19.3/Beacon_Finance_Setup_48.19.3.zip",
-   "whats_new": "48.19.3  (November 2026)  SECURITY RULES 47 (MEETINGS AND PRAYER GROUPS)\n  Online Giving → Copy Security Rules / Make Giving Page Files give rules version 47, the same as Website Update 74 (meetings\n  taken on the phone, prayer groups, urgent prayer requests). Publishing the rules from here no longer takes those away.\n  Nothing else changed."
+   "version": "48.19.4",
+   "program_version": "48.19.4",
+   "tag": "finance-v48.19.4",
+   "file": "Beacon_Finance_Setup_48.19.4.zip",
+   "size": 26697580,
+   "date": "2026-11-21",
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/finance-v48.19.4/Beacon_Finance_Setup_48.19.4.zip",
+   "whats_new": "48.19.4  (November 2026)  SECURITY RULES 48 (EACH MEMBER'S MEETINGS ON THEIR HOME)\n  Online Giving → Copy Security Rules / Make Giving Page Files give rules version 48, the same as Website Update 92 (each\n  member sees the meetings they attended on their portal's Home as soon as they are ticked). Nothing else changed."
   },
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.25",
-   "program_version": "4.39.0",
-   "tag": "secretary-v1.28.25",
-   "file": "Beacon_Secretary_Setup_1.28.25.zip",
-   "size": 43161322,
+   "version": "1.28.26",
+   "program_version": "4.39.1",
+   "tag": "secretary-v1.28.26",
+   "file": "Beacon_Secretary_Setup_1.28.26.zip",
+   "size": 43161828,
    "date": "2026-11-21",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.25/Beacon_Secretary_Setup_1.28.25.zip",
-   "whats_new": "v4.39.0 - THE MEETINGS ON EACH MEMBER'S HOME (and Website Update 91)\n  - Each member's portal Home shows \"My attendance\" this year: the Sunday service (as before), then, folded under it, Bible\n    study, the prayer meeting and the fellowships of their ministries: how many they attended, of how many held, and when\n    they last came. Sent at every sync.\n  - Which fellowships: Meetings… → Setup → a meeting → \"For the members of\" (the ministry, or several with commas). Empty:\n    by the meeting's name (Men's fellowship → the Men ministry). A member who came to a fellowship sees it too.\n  - Editing a meeting in Setup keeps its usual prayer points' groups when the points are not changed."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.26/Beacon_Secretary_Setup_1.28.26.zip",
+   "whats_new": "v4.39.1 - MEETINGS ON HOME AT ONCE; DELETE A MEETING; HISTORY FILTERS (and Website Update 92, security rules 48)\n  - A member ticked present on a phone sees it on their portal's Home at once (My attendance), without a sync here.\n    Each sync (and each tick here) writes every member's meetings of this year for that (my_meetings, meeting_index).\n  - Meetings… → History: filters (Meeting, Month), \"Update with the portal\" (brings in the phones' meetings and sends every\n    member's meetings to their Home now), and \"Delete this meeting…\" for a meeting taken by mistake, like a test: its\n    attendance and prayer groups are removed here, on the phones and from each member's Home.\n  - A meeting deleted on another computer within the last 60 days goes here too at the next sync.\n  - The meeting and date at the top of the window are shown only on Take attendance and Prayer groups (where they are used).\n  - Needs the security rules 48 (Website Update 92)."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.25",
-   "program_version": "4.39.0",
-   "tag": "attendance-v1.28.25",
-   "file": "Beacon_Attendance_Setup_1.28.25.zip",
-   "size": 43153401,
+   "version": "1.28.26",
+   "program_version": "4.39.1",
+   "tag": "attendance-v1.28.26",
+   "file": "Beacon_Attendance_Setup_1.28.26.zip",
+   "size": 43161742,
    "date": "2026-11-21",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.25/Beacon_Attendance_Setup_1.28.25.zip",
-   "whats_new": "v4.39.0 - THE MEETINGS ON EACH MEMBER'S HOME (and Website Update 91)\n  - Each member's portal Home shows \"My attendance\" this year: the Sunday service (as before), then, folded under it, Bible\n    study, the prayer meeting and the fellowships of their ministries: how many they attended, of how many held, and when\n    they last came. Sent at every sync.\n  - Which fellowships: Meetings… → Setup → a meeting → \"For the members of\" (the ministry, or several with commas). Empty:\n    by the meeting's name (Men's fellowship → the Men ministry). A member who came to a fellowship sees it too.\n  - Editing a meeting in Setup keeps its usual prayer points' groups when the points are not changed."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.26/Beacon_Attendance_Setup_1.28.26.zip",
+   "whats_new": "v4.39.1 - MEETINGS ON HOME AT ONCE; DELETE A MEETING; HISTORY FILTERS (and Website Update 92, security rules 48)\n  - A member ticked present on a phone sees it on their portal's Home at once (My attendance), without a sync here.\n    Each sync (and each tick here) writes every member's meetings of this year for that (my_meetings, meeting_index).\n  - Meetings… → History: filters (Meeting, Month), \"Update with the portal\" (brings in the phones' meetings and sends every\n    member's meetings to their Home now), and \"Delete this meeting…\" for a meeting taken by mistake, like a test: its\n    attendance and prayer groups are removed here, on the phones and from each member's Home.\n  - A meeting deleted on another computer within the last 60 days goes here too at the next sync.\n  - The meeting and date at the top of the window are shown only on Take attendance and Prayer groups (where they are used).\n  - Needs the security rules 48 (Website Update 92)."
   },
   {
    "key": "admin",
