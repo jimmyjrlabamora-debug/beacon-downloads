@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T04:09:43Z",
+ "updated": "2026-11-21T08:09:22Z",
  "apps": [
   {
    "key": "finance",
@@ -16,26 +16,26 @@
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.31",
-   "program_version": "4.39.6",
-   "tag": "secretary-v1.28.31",
-   "file": "Beacon_Secretary_Setup_1.28.31.zip",
-   "size": 43163639,
+   "version": "1.28.32",
+   "program_version": "4.39.7",
+   "tag": "secretary-v1.28.32",
+   "file": "Beacon_Secretary_Setup_1.28.32.zip",
+   "size": 43166178,
    "date": "2026-11-21",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.31/Beacon_Secretary_Setup_1.28.31.zip",
-   "whats_new": "v4.39.6 - THE 4 PRINTED SUNDAY QR CARDS ARE THE SAME ON EVERY COMPUTER (and Website Update 95, security rules 50)\n  - The cards (and whether they are in use) are saved online (checkin_cards/current: only the office can read it, members\n    cannot). Each computer reads them at every sync, when it opens a check-in and when the Check-in window opens, so the\n    church computer opens Sunday's check-in with the same printed card as the secretary's computer.\n  - A change made on one computer (cards turned on or off, New cards…) is saved online at once; the other computers follow\n    at their next sync.\n  - Publish Website Update 95 once (rules 50). Until then each computer keeps its own cards, as before."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.32/Beacon_Secretary_Setup_1.28.32.zip",
+   "whats_new": "v4.39.7 - PORTAL COPY = WEBSITE UPDATE 96 (no change to the program itself)\n  - Beacon Worship: a Music Leader sends a set list to Beacon Presenter (⇩ Send to Beacon Presenter), and later takes the\n    edits made there back (Update from Beacon Presenter): the songs' words, chords and order and that set list are replaced.\n  - No rules change (rules stay 50)."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.31",
-   "program_version": "4.39.6",
-   "tag": "attendance-v1.28.31",
-   "file": "Beacon_Attendance_Setup_1.28.31.zip",
-   "size": 43159768,
+   "version": "1.28.32",
+   "program_version": "4.39.7",
+   "tag": "attendance-v1.28.32",
+   "file": "Beacon_Attendance_Setup_1.28.32.zip",
+   "size": 43165483,
    "date": "2026-11-21",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.31/Beacon_Attendance_Setup_1.28.31.zip",
-   "whats_new": "v4.39.6 - THE 4 PRINTED SUNDAY QR CARDS ARE THE SAME ON EVERY COMPUTER (and Website Update 95, security rules 50)\n  - The cards (and whether they are in use) are saved online (checkin_cards/current: only the office can read it, members\n    cannot). Each computer reads them at every sync, when it opens a check-in and when the Check-in window opens, so the\n    church computer opens Sunday's check-in with the same printed card as the secretary's computer.\n  - A change made on one computer (cards turned on or off, New cards…) is saved online at once; the other computers follow\n    at their next sync.\n  - Publish Website Update 95 once (rules 50). Until then each computer keeps its own cards, as before."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.32/Beacon_Attendance_Setup_1.28.32.zip",
+   "whats_new": "v4.39.7 - PORTAL COPY = WEBSITE UPDATE 96 (no change to the program itself)\n  - Beacon Worship: a Music Leader sends a set list to Beacon Presenter (⇩ Send to Beacon Presenter), and later takes the\n    edits made there back (Update from Beacon Presenter): the songs' words, chords and order and that set list are replaced.\n  - No rules change (rules stay 50)."
   },
   {
    "key": "admin",
