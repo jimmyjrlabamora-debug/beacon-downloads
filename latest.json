@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T20:14:32Z",
+ "updated": "2026-11-21T00:52:06Z",
  "apps": [
   {
    "key": "finance",
@@ -16,26 +16,26 @@
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.24",
-   "program_version": "4.38.10",
-   "tag": "secretary-v1.28.24",
-   "file": "Beacon_Secretary_Setup_1.28.24.zip",
-   "size": 43156678,
-   "date": "2026-11-20",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.24/Beacon_Secretary_Setup_1.28.24.zip",
-   "whats_new": "v4.38.10 - THE PHONES' CHANGES ARE KEPT; MEMBERS SEE NEW GROUPS AT ONCE (and Website Update 90)\n  - Publish to the portal, Add the late arrivals, Make new groups and the round buttons first read the groups as they are now,\n    so changes made on a phone a moment ago (swaps, someone taken out, notes) are kept. No need to Refresh first.\n  - Members' portal (Website Update 90): new prayer groups appear at once, without opening the portal again; deleted ones\n    disappear; someone added late sees their group at once."
+   "version": "1.28.25",
+   "program_version": "4.39.0",
+   "tag": "secretary-v1.28.25",
+   "file": "Beacon_Secretary_Setup_1.28.25.zip",
+   "size": 43161322,
+   "date": "2026-11-21",
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.25/Beacon_Secretary_Setup_1.28.25.zip",
+   "whats_new": "v4.39.0 - THE MEETINGS ON EACH MEMBER'S HOME (and Website Update 91)\n  - Each member's portal Home shows \"My attendance\" this year: the Sunday service (as before), then, folded under it, Bible\n    study, the prayer meeting and the fellowships of their ministries: how many they attended, of how many held, and when\n    they last came. Sent at every sync.\n  - Which fellowships: Meetings… → Setup → a meeting → \"For the members of\" (the ministry, or several with commas). Empty:\n    by the meeting's name (Men's fellowship → the Men ministry). A member who came to a fellowship sees it too.\n  - Editing a meeting in Setup keeps its usual prayer points' groups when the points are not changed."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.24",
-   "program_version": "4.38.10",
-   "tag": "attendance-v1.28.24",
-   "file": "Beacon_Attendance_Setup_1.28.24.zip",
-   "size": 43154835,
-   "date": "2026-11-20",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.24/Beacon_Attendance_Setup_1.28.24.zip",
-   "whats_new": "v4.38.10 - THE PHONES' CHANGES ARE KEPT; MEMBERS SEE NEW GROUPS AT ONCE (and Website Update 90)\n  - Publish to the portal, Add the late arrivals, Make new groups and the round buttons first read the groups as they are now,\n    so changes made on a phone a moment ago (swaps, someone taken out, notes) are kept. No need to Refresh first.\n  - Members' portal (Website Update 90): new prayer groups appear at once, without opening the portal again; deleted ones\n    disappear; someone added late sees their group at once."
+   "version": "1.28.25",
+   "program_version": "4.39.0",
+   "tag": "attendance-v1.28.25",
+   "file": "Beacon_Attendance_Setup_1.28.25.zip",
+   "size": 43153401,
+   "date": "2026-11-21",
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.25/Beacon_Attendance_Setup_1.28.25.zip",
+   "whats_new": "v4.39.0 - THE MEETINGS ON EACH MEMBER'S HOME (and Website Update 91)\n  - Each member's portal Home shows \"My attendance\" this year: the Sunday service (as before), then, folded under it, Bible\n    study, the prayer meeting and the fellowships of their ministries: how many they attended, of how many held, and when\n    they last came. Sent at every sync.\n  - Which fellowships: Meetings… → Setup → a meeting → \"For the members of\" (the ministry, or several with commas). Empty:\n    by the meeting's name (Men's fellowship → the Men ministry). A member who came to a fellowship sees it too.\n  - Editing a meeting in Setup keeps its usual prayer points' groups when the points are not changed."
   },
   {
    "key": "admin",
