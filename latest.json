@@ -1,53 +1,53 @@
 {
- "updated": "2026-11-25T15:37:41Z",
+ "updated": "2026-11-25T23:21:34Z",
  "apps": [
   {
    "key": "finance",
    "name": "Beacon Finance",
-   "version": "48.19.7",
-   "program_version": "48.19.7",
-   "tag": "finance-v48.19.7",
-   "file": "Beacon_Finance_Setup_48.19.7.zip",
-   "size": 26699140,
+   "version": "48.19.8",
+   "program_version": "48.19.8",
+   "tag": "finance-v48.19.8",
+   "file": "Beacon_Finance_Setup_48.19.8.zip",
+   "size": 26701149,
    "date": "2026-11-25",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/finance-v48.19.7/Beacon_Finance_Setup_48.19.7.zip",
-   "whats_new": "48.19.7  (November 2026)  SECURITY RULES 51; PORTAL SLIP TIMES ON THIS COMPUTER'S CLOCK\n  Online Giving → Copy Security Rules / Make Giving Page Files give rules version 51, the same as Website Update 97. The\n  portal slips' times are shown on this computer's clock (they were 8 hours early: Firebase keeps them in UTC)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/finance-v48.19.8/Beacon_Finance_Setup_48.19.8.zip",
+   "whats_new": "48.19.8  (November 2026)  SECURITY RULES 52\n  Online Giving → Copy Security Rules / Make Giving Page Files give rules version 52, the same as Website Update 99 (weekly\n  schedule reminders by email). Nothing else."
   },
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.33",
-   "program_version": "4.39.8",
-   "tag": "secretary-v1.28.33",
-   "file": "Beacon_Secretary_Setup_1.28.33.zip",
-   "size": 43178059,
+   "version": "1.28.35",
+   "program_version": "4.39.10",
+   "tag": "secretary-v1.28.35",
+   "file": "Beacon_Secretary_Setup_1.28.35.zip",
+   "size": 43178021,
    "date": "2026-11-25",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.33/Beacon_Secretary_Setup_1.28.33.zip",
-   "whats_new": "v4.39.8 - PAST CHECK-INS, BIRTHDAYS BY MONTH, TARRY NIGHT, OFFICERS APPROVE PROFILE UPDATES (and Website Update 97, rules 51)\n  - Attendance → Check In has a Date (today at first): an earlier date checks in someone who was forgotten, with the time\n    they came (it starts on the earliest check-in of that day). The list on the right shows that date; Delete Selected\n    removes a check-in. The portal and Beacon Admin get it at the next sync.\n  - Dashboard → Birthdays: ‹ › show the month before or after (This month brings it back).\n  - Meetings… → Setup → a meeting can be Tarry Night: one prayer group per hour (11 PM – 6 AM, the pastor at 4 AM). The\n    groups are made in the portal (group 1 ticked by hand); here they show by hour, late arrivals go to an hour, and the\n    picture says PRAYER CHAIN. The setup tells the phones who the pastor is.\n  - The pastor (Lead pastor) gets \"pastor\" in his portal: he may delete a meeting and change or remove any announcement for\n    everyone; this program makes his change permanent at the next sync.\n  - The officers who see the Members directory get Profile updates to check in their portal (and a phone notification): their\n    approval or rejection is done here at the next sync, as if decided in Profile Updates.\n  - Times from the portal (Posted, Sent, Created) are shown on this computer's clock (they were 8 hours early).\n  - This program's copy of the portal page and the rules: Website Update 97 (rules version 51)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.35/Beacon_Secretary_Setup_1.28.35.zip",
+   "whats_new": "v4.39.10 - PORTAL COPY = WEBSITE UPDATE 99 (rules 52; no change to the program itself)\n  - Website Update 99: every Monday at 7 AM each person with a role in Beacon Admin's schedule that week gets one email\n    with all their roles (Worship and Media roles left out). The email address is the one in the member's record here.\n  - This program's copy of the portal page and the rules: Website Update 99 (rules version 52)."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.33",
-   "program_version": "4.39.8",
-   "tag": "attendance-v1.28.33",
-   "file": "Beacon_Attendance_Setup_1.28.33.zip",
-   "size": 43176053,
+   "version": "1.28.35",
+   "program_version": "4.39.10",
+   "tag": "attendance-v1.28.35",
+   "file": "Beacon_Attendance_Setup_1.28.35.zip",
+   "size": 43174625,
    "date": "2026-11-25",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.33/Beacon_Attendance_Setup_1.28.33.zip",
-   "whats_new": "v4.39.8 - PAST CHECK-INS, BIRTHDAYS BY MONTH, TARRY NIGHT, OFFICERS APPROVE PROFILE UPDATES (and Website Update 97, rules 51)\n  - Attendance → Check In has a Date (today at first): an earlier date checks in someone who was forgotten, with the time\n    they came (it starts on the earliest check-in of that day). The list on the right shows that date; Delete Selected\n    removes a check-in. The portal and Beacon Admin get it at the next sync.\n  - Dashboard → Birthdays: ‹ › show the month before or after (This month brings it back).\n  - Meetings… → Setup → a meeting can be Tarry Night: one prayer group per hour (11 PM – 6 AM, the pastor at 4 AM). The\n    groups are made in the portal (group 1 ticked by hand); here they show by hour, late arrivals go to an hour, and the\n    picture says PRAYER CHAIN. The setup tells the phones who the pastor is.\n  - The pastor (Lead pastor) gets \"pastor\" in his portal: he may delete a meeting and change or remove any announcement for\n    everyone; this program makes his change permanent at the next sync.\n  - The officers who see the Members directory get Profile updates to check in their portal (and a phone notification): their\n    approval or rejection is done here at the next sync, as if decided in Profile Updates.\n  - Times from the portal (Posted, Sent, Created) are shown on this computer's clock (they were 8 hours early).\n  - This program's copy of the portal page and the rules: Website Update 97 (rules version 51)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.35/Beacon_Attendance_Setup_1.28.35.zip",
+   "whats_new": "v4.39.10 - PORTAL COPY = WEBSITE UPDATE 99 (rules 52; no change to the program itself)\n  - Website Update 99: every Monday at 7 AM each person with a role in Beacon Admin's schedule that week gets one email\n    with all their roles (Worship and Media roles left out). The email address is the one in the member's record here.\n  - This program's copy of the portal page and the rules: Website Update 99 (rules version 52)."
   },
   {
    "key": "admin",
    "name": "Beacon Admin",
-   "version": "1.27.0",
-   "program_version": "1.27.0",
-   "tag": "admin-v1.27.0",
-   "file": "Beacon_Admin_Setup_1.27.0.zip",
-   "size": 20820984,
+   "version": "1.28.0",
+   "program_version": "1.28.0",
+   "tag": "admin-v1.28.0",
+   "file": "Beacon_Admin_Setup_1.28.0.zip",
+   "size": 20824160,
    "date": "2026-11-25",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/admin-v1.27.0/Beacon_Admin_Setup_1.27.0.zip",
-   "whats_new": "NEW IN 1.27.0: HOUSE VENUES TAKEN IN TURN - Activity Types & Roles → House venues: list the houses where the weekly Bible study is held. A new Bible study (New activity, Plan weekly activities, Copy to another date, or from the phone) gets the house whose turn it is: the one that hosted least recently, in the order of the list. If that house can't host that week, choose another in Venue; the skipped house stays first in line for the next week."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/admin-v1.28.0/Beacon_Admin_Setup_1.28.0.zip",
+   "whats_new": "NEW IN 1.28.0: EMAIL REMINDERS EVERY MONDAY - Online & Sharing → 6. Email reminders: every Monday at 7 AM (Philippine time) each person with a role in the schedule that week (Monday to Sunday) gets ONE email with all their roles (day, time, when to be there, place, note). Worship and Media roles are left out. It is sent online (this computer can be off), to the email address in the member's record, from the email account of the prayer alerts (Beacon Pastor). Turn it on or off, Send a test to…, Send this week's now, and The last ones sent… (who got it, who has no email address). Needs Website Update 99 (rules 52) published from Beacon Pastor."
   },
   {
    "key": "camhost",
