@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T08:09:22Z",
+ "updated": "2026-11-25T15:17:19Z",
  "apps": [
   {
    "key": "finance",
@@ -40,14 +40,14 @@
   {
    "key": "admin",
    "name": "Beacon Admin",
-   "version": "1.26.0",
-   "program_version": "1.26.0",
-   "tag": "admin-v1.26.0",
-   "file": "Beacon_Admin_Setup_1.26.0.zip",
-   "size": 20176430,
-   "date": "2026-11-20",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/admin-v1.26.0/Beacon_Admin_Setup_1.26.0.zip",
-   "whats_new": "NEW IN 1.26.0: Settings and Online & Sharing pages scroll (nothing cropped). Shared schedule now has the same choices as Beacon Finance: Sync Now (combine), Use the Drive copy, Force upload, Choose items (Download / Upload / Ignore each difference), and Restore points."
+   "version": "1.27.0",
+   "program_version": "1.27.0",
+   "tag": "admin-v1.27.0",
+   "file": "Beacon_Admin_Setup_1.27.0.zip",
+   "size": 20820984,
+   "date": "2026-11-25",
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/admin-v1.27.0/Beacon_Admin_Setup_1.27.0.zip",
+   "whats_new": "NEW IN 1.27.0: HOUSE VENUES TAKEN IN TURN - Activity Types & Roles → House venues: list the houses where the weekly Bible study is held. A new Bible study (New activity, Plan weekly activities, Copy to another date, or from the phone) gets the house whose turn it is: the one that hosted least recently, in the order of the list. If that house can't host that week, choose another in Venue; the skipped house stays first in line for the next week."
   },
   {
    "key": "camhost",
