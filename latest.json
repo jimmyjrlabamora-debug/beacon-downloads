@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T06:55:42Z",
+ "updated": "2026-11-26T07:57:25Z",
  "apps": [
   {
    "key": "finance",
@@ -52,14 +52,14 @@
   {
    "key": "worship",
    "name": "Beacon Worship & Media",
-   "version": "1.0.1",
-   "program_version": "1.0.1",
-   "tag": "worship-v1.0.1",
-   "file": "Beacon_Worship_Media_Setup_1.0.1.zip",
-   "size": 14502715,
+   "version": "1.1.0",
+   "program_version": "1.1.0",
+   "tag": "worship-v1.1.0",
+   "file": "Beacon_Worship_Media_Setup_1.1.0.zip",
+   "size": 14513107,
    "date": "2026-11-26",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/worship-v1.0.1/Beacon_Worship_Media_Setup_1.0.1.zip",
-   "whats_new": "NEW IN 1.0.1: FITS A LAPTOP SCREEN - On a 1366 × 768 laptop the menu on the left was cut off at the bottom (Backup & Restore, the version). Now its rows get lower when the window is short, so every page is always in sight. Also on a smaller screen: the song boxes stretch with the window (they ran past the right edge), Copy from another date… sits beside the heading of the set list, the team check-ins are one table above the other, and long descriptions wrap to the width they get. The Backup page says when the first backup is made."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/worship-v1.1.0/Beacon_Worship_Media_Setup_1.1.0.zip",
+   "whats_new": "NEW IN 1.1.0: TWO COMPUTERS, SAFELY - Beacon Worship & Media can now be used on two computers (for example the Music Leader's laptop and the pastor's computer). Online & Sharing → 5: import the Google sign-in file (the same one as Beacon Admin's; on a computer with Beacon Admin it offers that one), click Connect, then Sync Now. The songs, set lists, devotionals and teams then go between the computers through the church's Google Drive (at start, every 10 minutes, before Publish and when closing); when both changed something, the two are combined and nothing is lost. Only ONE open computer at a time does the changes from the Music Leaders' phones and the automatic publish, so nothing is done twice; the other one says which computer does it, and takes over by itself 10 minutes after that one is closed (or at once with \"Do the phones' changes on this computer\"). A new computer can choose \"From the other computer, through Google Drive\" at the first start. Also: when the church's website needs a newer Beacon Worship & Media, this program says \"Please update\" and stops going online until it is updated (so an old copy cannot undo the new one's work); it can sign in with a Beacon Worship & Media account (worship_office) that can do only the worship and media work, not everything of the office. Needs Website Update 106 (rules 57) for the last three; with older rules it works as 1.0 did."
   },
   {
    "key": "camhost",
