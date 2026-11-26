@@ -1,41 +1,41 @@
 {
- "updated": "2026-11-26T00:08:02Z",
+ "updated": "2026-11-26T01:19:19Z",
  "apps": [
   {
    "key": "finance",
    "name": "Beacon Finance",
-   "version": "48.20.1",
-   "program_version": "48.20.1",
-   "tag": "finance-v48.20.1",
-   "file": "Beacon_Finance_Setup_48.20.1.zip",
-   "size": 26703288,
+   "version": "48.20.2",
+   "program_version": "48.20.2",
+   "tag": "finance-v48.20.2",
+   "file": "Beacon_Finance_Setup_48.20.2.zip",
+   "size": 26698881,
    "date": "2026-11-26",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/finance-v48.20.1/Beacon_Finance_Setup_48.20.1.zip",
-   "whats_new": "48.20.1  (November 2026)  SECURITY RULES 54\n  Online Giving → Copy Security Rules / Make Giving Page Files give rules version 54 (Website Update 101: Beacon Secretary on\n  the phone). Nothing else."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/finance-v48.20.2/Beacon_Finance_Setup_48.20.2.zip",
+   "whats_new": "48.20.2  (November 2026)  SECURITY RULES 55\n  Online Giving → Copy Security Rules / Make Giving Page Files give rules version 55 (Website Update 102: the pastor sees every\n  ministry leader's post). Nothing else."
   },
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.37",
-   "program_version": "4.41.0",
-   "tag": "secretary-v1.28.37",
-   "file": "Beacon_Secretary_Setup_1.28.37.zip",
-   "size": 43724179,
+   "version": "1.28.39",
+   "program_version": "4.41.2",
+   "tag": "secretary-v1.28.39",
+   "file": "Beacon_Secretary_Setup_1.28.39.zip",
+   "size": 43727526,
    "date": "2026-11-26",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.37/Beacon_Secretary_Setup_1.28.37.zip",
-   "whats_new": "v4.41.0 - BEACON SECRETARY ON THE PHONE (and Website Update 101, rules 54)\n  - The office officers (Officer: Secretary, Officer: Admin, and the lead pastor) have Beacon Secretary on the phone:\n    https://<your project>.web.app/secretary/ (Chrome → ⋮ → Install app; iPhone: Safari → Share → Add to Home Screen),\n    signed in with their member ID and PIN. Members: find, see, change the details, add a new member, archive, bring back.\n    Who came: a date, who checked in, check someone in or take a check-in away. Reports: members by category, the last\n    services, the months, birthdays by month.\n  - This program stays the master copy: each change from the phone is done here at the next sync (as if done here) and the\n    phone shows \"done\" with the result (a new member's ID). The sync line says how many changes came from the phone.\n  - This program's copy of the portal page and the rules: Website Update 101 (rules version 54), with website/secretary/."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.39/Beacon_Secretary_Setup_1.28.39.zip",
+   "whats_new": "v4.41.2 - PORTAL COPY = WEBSITE UPDATE 103 (no change to the program itself; rules stay 55)\n  - Beacon Pastor on the phone: Giving → By member can be searched (name or ID) and ordered; the sub-tabs float at the top (the one chosen stays in sight), the schedule's activities are\n    folded (See details), and the buttons of Beacon Pastor and Beacon Secretary on the phone are rounded and modern."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.37",
-   "program_version": "4.41.0",
-   "tag": "attendance-v1.28.37",
-   "file": "Beacon_Attendance_Setup_1.28.37.zip",
-   "size": 43723358,
+   "version": "1.28.39",
+   "program_version": "4.41.2",
+   "tag": "attendance-v1.28.39",
+   "file": "Beacon_Attendance_Setup_1.28.39.zip",
+   "size": 43732009,
    "date": "2026-11-26",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.37/Beacon_Attendance_Setup_1.28.37.zip",
-   "whats_new": "v4.41.0 - BEACON SECRETARY ON THE PHONE (and Website Update 101, rules 54)\n  - The office officers (Officer: Secretary, Officer: Admin, and the lead pastor) have Beacon Secretary on the phone:\n    https://<your project>.web.app/secretary/ (Chrome → ⋮ → Install app; iPhone: Safari → Share → Add to Home Screen),\n    signed in with their member ID and PIN. Members: find, see, change the details, add a new member, archive, bring back.\n    Who came: a date, who checked in, check someone in or take a check-in away. Reports: members by category, the last\n    services, the months, birthdays by month.\n  - This program stays the master copy: each change from the phone is done here at the next sync (as if done here) and the\n    phone shows \"done\" with the result (a new member's ID). The sync line says how many changes came from the phone.\n  - This program's copy of the portal page and the rules: Website Update 101 (rules version 54), with website/secretary/."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.39/Beacon_Attendance_Setup_1.28.39.zip",
+   "whats_new": "v4.41.2 - PORTAL COPY = WEBSITE UPDATE 103 (no change to the program itself; rules stay 55)\n  - Beacon Pastor on the phone: Giving → By member can be searched (name or ID) and ordered; the sub-tabs float at the top (the one chosen stays in sight), the schedule's activities are\n    folded (See details), and the buttons of Beacon Pastor and Beacon Secretary on the phone are rounded and modern."
   },
   {
    "key": "admin",
