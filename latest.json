@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T13:09:11Z",
+ "updated": "2026-11-26T13:15:36Z",
  "apps": [
   {
    "key": "finance",
@@ -16,26 +16,26 @@
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.42",
-   "program_version": "4.42.0",
-   "tag": "secretary-v1.28.42",
-   "file": "Beacon_Secretary_Setup_1.28.42.zip",
-   "size": 43277168,
+   "version": "1.28.44",
+   "program_version": "4.43.1",
+   "tag": "secretary-v1.28.44",
+   "file": "Beacon_Secretary_Setup_1.28.44.zip",
+   "size": 44079033,
    "date": "2026-11-26",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.42/Beacon_Secretary_Setup_1.28.42.zip",
-   "whats_new": "v4.42.0 - TWO COMPUTERS NEVER DO A PHONE CHANGE TWICE; PORTAL AND RULES COPY = WEBSITE UPDATE 106 (rules 57)\n  - Beacon Secretary on the phone: each change is first CLAIMED by one computer (a write only one computer can win), then done.\n    The Secretary computer and the Attendance computer at the door both sync, and at the same moment both could add the same\n    new member; now only one does. A claim not finished after 10 minutes (that computer stopped) may be taken by the other.\n  - When the church's website needs a newer Beacon Secretary / Attendance (Beacon Pastor → Publish Everything says so), the\n    Member Portal part of the sync stops with \"Please update\" until it is updated (Google Drive still syncs).\n  - Removed files nothing used: login_window.py, qr_checkin.py, qr_scanner.py, nav_menu.py.\n  - Portal copy = Website Update 106: Beacon Pastor on the phone reads only the prayer requests not followed up and those of the\n    last 6 months; the portal checks the church check-in only while it is on the screen. Rules 57."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.44/Beacon_Secretary_Setup_1.28.44.zip",
+   "whats_new": "v4.43.1 - PDFS ON WINDOWS AGAIN; LESS UNUSED CODE; PORTAL COPY = WEBSITE UPDATE 107 (rules stay 57)\n  - The Windows setups from the download page (made by GitHub since 2026-11-20) did not include reportlab and pypdf, so\n    on a Windows computer installed from them the PDF letters, resolutions and minutes, the baptism and dedication\n    certificates and Documents ▸ Import from a PDF could not work. Setups 1.28.44 include them (GitHub's new test step\n    found it: the tests run with exactly the setup's libraries).\n  - Removed what nothing used any more: the old Dashboard and Statistics pages (dashboard.py, dashboard_v2.py; replaced by\n    the new-look Dashboard and Statistics in 4.29 / 4.30, but still loaded at every start), the controller's counts only they\n    used, the old Copy Security Rules and Make Portal Files code (Beacon Pastor → Publish Everything does that) with\n    HOW_TO_PUBLISH_PORTAL.txt, an unused quick check-in, and other unused helpers and imports. Start-up is a little quicker\n    (the charts library is no longer loaded at start). ONLINE_SETUP.txt now says Beacon Pastor publishes the portal.\n  - Portal copy = Website Update 107: Beacon Admin on the phone tells someone not allowed that the pastor chooses them (Roles),\n    and does not save an activity with a date before today."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.42",
-   "program_version": "4.42.0",
-   "tag": "attendance-v1.28.42",
-   "file": "Beacon_Attendance_Setup_1.28.42.zip",
-   "size": 43271920,
+   "version": "1.28.44",
+   "program_version": "4.43.1",
+   "tag": "attendance-v1.28.44",
+   "file": "Beacon_Attendance_Setup_1.28.44.zip",
+   "size": 44071614,
    "date": "2026-11-26",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.42/Beacon_Attendance_Setup_1.28.42.zip",
-   "whats_new": "v4.42.0 - TWO COMPUTERS NEVER DO A PHONE CHANGE TWICE; PORTAL AND RULES COPY = WEBSITE UPDATE 106 (rules 57)\n  - Beacon Secretary on the phone: each change is first CLAIMED by one computer (a write only one computer can win), then done.\n    The Secretary computer and the Attendance computer at the door both sync, and at the same moment both could add the same\n    new member; now only one does. A claim not finished after 10 minutes (that computer stopped) may be taken by the other.\n  - When the church's website needs a newer Beacon Secretary / Attendance (Beacon Pastor → Publish Everything says so), the\n    Member Portal part of the sync stops with \"Please update\" until it is updated (Google Drive still syncs).\n  - Removed files nothing used: login_window.py, qr_checkin.py, qr_scanner.py, nav_menu.py.\n  - Portal copy = Website Update 106: Beacon Pastor on the phone reads only the prayer requests not followed up and those of the\n    last 6 months; the portal checks the church check-in only while it is on the screen. Rules 57."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.44/Beacon_Attendance_Setup_1.28.44.zip",
+   "whats_new": "v4.43.1 - PDFS ON WINDOWS AGAIN; LESS UNUSED CODE; PORTAL COPY = WEBSITE UPDATE 107 (rules stay 57)\n  - The Windows setups from the download page (made by GitHub since 2026-11-20) did not include reportlab and pypdf, so\n    on a Windows computer installed from them the PDF letters, resolutions and minutes, the baptism and dedication\n    certificates and Documents ▸ Import from a PDF could not work. Setups 1.28.44 include them (GitHub's new test step\n    found it: the tests run with exactly the setup's libraries).\n  - Removed what nothing used any more: the old Dashboard and Statistics pages (dashboard.py, dashboard_v2.py; replaced by\n    the new-look Dashboard and Statistics in 4.29 / 4.30, but still loaded at every start), the controller's counts only they\n    used, the old Copy Security Rules and Make Portal Files code (Beacon Pastor → Publish Everything does that) with\n    HOW_TO_PUBLISH_PORTAL.txt, an unused quick check-in, and other unused helpers and imports. Start-up is a little quicker\n    (the charts library is no longer loaded at start). ONLINE_SETUP.txt now says Beacon Pastor publishes the portal.\n  - Portal copy = Website Update 107: Beacon Admin on the phone tells someone not allowed that the pastor chooses them (Roles),\n    and does not save an activity with a date before today."
   },
   {
    "key": "admin",
