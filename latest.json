@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T07:57:25Z",
+ "updated": "2026-11-26T08:01:18Z",
  "apps": [
   {
    "key": "finance",
@@ -40,14 +40,14 @@
   {
    "key": "admin",
    "name": "Beacon Admin",
-   "version": "1.30.0",
-   "program_version": "1.30.0",
-   "tag": "admin-v1.30.0",
-   "file": "Beacon_Admin_Setup_1.30.0.zip",
-   "size": 20811036,
+   "version": "1.31.0",
+   "program_version": "1.31.0",
+   "tag": "admin-v1.31.0",
+   "file": "Beacon_Admin_Setup_1.31.0.zip",
+   "size": 20812999,
    "date": "2026-11-26",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/admin-v1.30.0/Beacon_Admin_Setup_1.30.0.zip",
-   "whats_new": "NEW IN 1.30.0: WORSHIP & MEDIA IS ITS OWN PROGRAM - The Worship & Media page left Beacon Admin: the songs, set lists, devotionals, the worship team, the media team, the Music Leaders, the team check-ins and the team's announcements are in the new program BEACON WORSHIP & MEDIA (for the Music Leader). The schedule stays here: Beacon Admin still makes the activities and their roles, and the worship and media roles are still in every activity."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/admin-v1.31.0/Beacon_Admin_Setup_1.31.0.zip",
+   "whats_new": "NEW IN 1.31.0: TWO COMPUTERS, NOTHING TWICE - When Beacon Admin is open on two computers, only ONE of them now puts the phones' changes (Beacon Admin on the phone) and what Beacon Worship & Media hands over into the schedule, so the same line-up is never added twice; the other gets it through Google Drive, and takes over by itself 10 minutes after the first one is closed (Online page, Google Drive: it says which computer does it). An activity made on a phone gets the phone's own number, so both computers make the SAME activity, and the list of those activities now travels with Google Drive. When the church's website needs a newer Beacon Admin, it says \"Please update\" and stops going online until it is updated. The \"Firebase refused\" message now says Beacon Pastor → Publish Everything. Needs Website Update 106 (rules 57) for the one-computer-at-a-time part; with older rules every computer does it, as before."
   },
   {
    "key": "worship",
