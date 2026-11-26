@@ -1,41 +1,41 @@
 {
- "updated": "2026-11-26T08:01:18Z",
+ "updated": "2026-11-26T08:11:51Z",
  "apps": [
   {
    "key": "finance",
    "name": "Beacon Finance",
-   "version": "48.20.3",
-   "program_version": "48.20.3",
-   "tag": "finance-v48.20.3",
-   "file": "Beacon_Finance_Setup_48.20.3.zip",
-   "size": 26701849,
+   "version": "48.21.0",
+   "program_version": "48.21.0",
+   "tag": "finance-v48.21.0",
+   "file": "Beacon_Finance_Setup_48.21.0.zip",
+   "size": 26705286,
    "date": "2026-11-26",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/finance-v48.20.3/Beacon_Finance_Setup_48.20.3.zip",
-   "whats_new": "48.20.3  (November 2026)  SECURITY RULES 56\n  Online Giving → Copy Security Rules / Make Giving Page Files give rules version 56 (Website Update 105: the worship and media\n  part becomes its own program, Beacon Worship & Media). Nothing else."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/finance-v48.21.0/Beacon_Finance_Setup_48.21.0.zip",
+   "whats_new": "48.21.0  (November 2026)  THE PASTOR'S ROLES WAIT FOR YOUR OK; SECURITY RULES 57\n  - Who handles the church's money (Disbursing Officers, Treasurers, Approvers, Auditors) is no longer changed by itself when\n    the pastor changes the Roles on the phone. Beacon Finance asks once (\"Accept this change now?\"), and Portal Finance Roles\n    shows the waiting change with Accept the pastor's change. Until it is accepted, everything stays as it was here (the\n    pastor's page on the phone shows what Beacon Finance still has). So a change made on a phone alone can never give anyone the\n    right to approve or release money.\n  - When the church's website needs a newer Beacon Finance (Beacon Pastor → Publish Everything says so), this program says\n    \"Please update\" and sends nothing to the portal until it is updated; reading still works.\n  - Online Giving → Copy Security Rules / Make Giving Page Files give rules version 57 (Website Update 106)."
   },
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.41",
-   "program_version": "4.41.4",
-   "tag": "secretary-v1.28.41",
-   "file": "Beacon_Secretary_Setup_1.28.41.zip",
-   "size": 43278340,
+   "version": "1.28.42",
+   "program_version": "4.42.0",
+   "tag": "secretary-v1.28.42",
+   "file": "Beacon_Secretary_Setup_1.28.42.zip",
+   "size": 43277168,
    "date": "2026-11-26",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.41/Beacon_Secretary_Setup_1.28.41.zip",
-   "whats_new": "v4.41.4 - PORTAL AND RULES COPY = WEBSITE UPDATE 105 (rules 56; no change to the program itself)\n  - The worship and media part is its own program, Beacon Worship & Media. Beacon Pastor on the phone → Roles shows the Music\n    Leaders under \"Worship and Media\"; the portal's Beacon Worship texts name the new program."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.42/Beacon_Secretary_Setup_1.28.42.zip",
+   "whats_new": "v4.42.0 - TWO COMPUTERS NEVER DO A PHONE CHANGE TWICE; PORTAL AND RULES COPY = WEBSITE UPDATE 106 (rules 57)\n  - Beacon Secretary on the phone: each change is first CLAIMED by one computer (a write only one computer can win), then done.\n    The Secretary computer and the Attendance computer at the door both sync, and at the same moment both could add the same\n    new member; now only one does. A claim not finished after 10 minutes (that computer stopped) may be taken by the other.\n  - When the church's website needs a newer Beacon Secretary / Attendance (Beacon Pastor → Publish Everything says so), the\n    Member Portal part of the sync stops with \"Please update\" until it is updated (Google Drive still syncs).\n  - Removed files nothing used: login_window.py, qr_checkin.py, qr_scanner.py, nav_menu.py.\n  - Portal copy = Website Update 106: Beacon Pastor on the phone reads only the prayer requests not followed up and those of the\n    last 6 months; the portal checks the church check-in only while it is on the screen. Rules 57."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.41",
-   "program_version": "4.41.4",
-   "tag": "attendance-v1.28.41",
-   "file": "Beacon_Attendance_Setup_1.28.41.zip",
-   "size": 43273702,
+   "version": "1.28.42",
+   "program_version": "4.42.0",
+   "tag": "attendance-v1.28.42",
+   "file": "Beacon_Attendance_Setup_1.28.42.zip",
+   "size": 43271920,
    "date": "2026-11-26",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.41/Beacon_Attendance_Setup_1.28.41.zip",
-   "whats_new": "v4.41.4 - PORTAL AND RULES COPY = WEBSITE UPDATE 105 (rules 56; no change to the program itself)\n  - The worship and media part is its own program, Beacon Worship & Media. Beacon Pastor on the phone → Roles shows the Music\n    Leaders under \"Worship and Media\"; the portal's Beacon Worship texts name the new program."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.42/Beacon_Attendance_Setup_1.28.42.zip",
+   "whats_new": "v4.42.0 - TWO COMPUTERS NEVER DO A PHONE CHANGE TWICE; PORTAL AND RULES COPY = WEBSITE UPDATE 106 (rules 57)\n  - Beacon Secretary on the phone: each change is first CLAIMED by one computer (a write only one computer can win), then done.\n    The Secretary computer and the Attendance computer at the door both sync, and at the same moment both could add the same\n    new member; now only one does. A claim not finished after 10 minutes (that computer stopped) may be taken by the other.\n  - When the church's website needs a newer Beacon Secretary / Attendance (Beacon Pastor → Publish Everything says so), the\n    Member Portal part of the sync stops with \"Please update\" until it is updated (Google Drive still syncs).\n  - Removed files nothing used: login_window.py, qr_checkin.py, qr_scanner.py, nav_menu.py.\n  - Portal copy = Website Update 106: Beacon Pastor on the phone reads only the prayer requests not followed up and those of the\n    last 6 months; the portal checks the church check-in only while it is on the screen. Rules 57."
   },
   {
    "key": "admin",
