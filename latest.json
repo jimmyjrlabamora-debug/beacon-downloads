@@ -1,41 +1,41 @@
 {
- "updated": "2026-11-26T00:01:07Z",
+ "updated": "2026-11-26T00:08:02Z",
  "apps": [
   {
    "key": "finance",
    "name": "Beacon Finance",
-   "version": "48.20.0",
-   "program_version": "48.20.0",
-   "tag": "finance-v48.20.0",
-   "file": "Beacon_Finance_Setup_48.20.0.zip",
-   "size": 26703993,
+   "version": "48.20.1",
+   "program_version": "48.20.1",
+   "tag": "finance-v48.20.1",
+   "file": "Beacon_Finance_Setup_48.20.1.zip",
+   "size": 26703288,
    "date": "2026-11-26",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/finance-v48.20.0/Beacon_Finance_Setup_48.20.0.zip",
-   "whats_new": "48.20.0  (November 2026)  THE PASTOR CHOOSES THE FINANCE ROLES; SECURITY RULES 53\n  The Disbursing Officers, Treasurers, Approvers and Auditors are chosen by the pastor in Beacon Pastor on the phone → Roles\n  (Website Update 100). This book takes them at Save and Publish, when Slips from the Portal opens and every 10 minutes while\n  signed in, and writes it in the audit log. In Portal Finance Roles those lists show \"set by the pastor\" and cannot be\n  changed; the name on the voucher and the signatures are still set here. A list the pastor has not saved stays as it is.\n  Online Giving → Copy Security Rules / Make Giving Page Files give rules version 53."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/finance-v48.20.1/Beacon_Finance_Setup_48.20.1.zip",
+   "whats_new": "48.20.1  (November 2026)  SECURITY RULES 54\n  Online Giving → Copy Security Rules / Make Giving Page Files give rules version 54 (Website Update 101: Beacon Secretary on\n  the phone). Nothing else."
   },
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.36",
-   "program_version": "4.40.0",
-   "tag": "secretary-v1.28.36",
-   "file": "Beacon_Secretary_Setup_1.28.36.zip",
-   "size": 43501693,
+   "version": "1.28.37",
+   "program_version": "4.41.0",
+   "tag": "secretary-v1.28.37",
+   "file": "Beacon_Secretary_Setup_1.28.37.zip",
+   "size": 43724179,
    "date": "2026-11-26",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.36/Beacon_Secretary_Setup_1.28.36.zip",
-   "whats_new": "v4.40.0 - THE PASTOR CHOOSES THE ROLES (and Website Update 100, rules 53)\n  - The pastor chooses the roles in ONE place: Beacon Pastor on the phone → Roles (the lead pastor's own app, /pastor/).\n    This program takes his lists at every sync: Officer: Admin, Officer: Secretary, Church leaders and officers, others who\n    may post to everyone, who sees the Members directory, who sees all meetings, who takes the attendance of each kind of\n    meeting, and the ministry leaders (Leads). Here they show \"Set by the pastor\" and cannot be changed (Leaders and\n    officers…, Meetings… → Setup, Edit Member → Leads / Church leader). The lead pastor is still chosen here. A list the\n    pastor has not saved yet stays as it is here.\n  - This program's copy of the portal page and the rules: Website Update 100 (rules version 53), with Beacon Pastor on the\n    phone (/pastor/)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.37/Beacon_Secretary_Setup_1.28.37.zip",
+   "whats_new": "v4.41.0 - BEACON SECRETARY ON THE PHONE (and Website Update 101, rules 54)\n  - The office officers (Officer: Secretary, Officer: Admin, and the lead pastor) have Beacon Secretary on the phone:\n    https://<your project>.web.app/secretary/ (Chrome → ⋮ → Install app; iPhone: Safari → Share → Add to Home Screen),\n    signed in with their member ID and PIN. Members: find, see, change the details, add a new member, archive, bring back.\n    Who came: a date, who checked in, check someone in or take a check-in away. Reports: members by category, the last\n    services, the months, birthdays by month.\n  - This program stays the master copy: each change from the phone is done here at the next sync (as if done here) and the\n    phone shows \"done\" with the result (a new member's ID). The sync line says how many changes came from the phone.\n  - This program's copy of the portal page and the rules: Website Update 101 (rules version 54), with website/secretary/."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.36",
-   "program_version": "4.40.0",
-   "tag": "attendance-v1.28.36",
-   "file": "Beacon_Attendance_Setup_1.28.36.zip",
-   "size": 43497584,
+   "version": "1.28.37",
+   "program_version": "4.41.0",
+   "tag": "attendance-v1.28.37",
+   "file": "Beacon_Attendance_Setup_1.28.37.zip",
+   "size": 43723358,
    "date": "2026-11-26",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.36/Beacon_Attendance_Setup_1.28.36.zip",
-   "whats_new": "v4.40.0 - THE PASTOR CHOOSES THE ROLES (and Website Update 100, rules 53)\n  - The pastor chooses the roles in ONE place: Beacon Pastor on the phone → Roles (the lead pastor's own app, /pastor/).\n    This program takes his lists at every sync: Officer: Admin, Officer: Secretary, Church leaders and officers, others who\n    may post to everyone, who sees the Members directory, who sees all meetings, who takes the attendance of each kind of\n    meeting, and the ministry leaders (Leads). Here they show \"Set by the pastor\" and cannot be changed (Leaders and\n    officers…, Meetings… → Setup, Edit Member → Leads / Church leader). The lead pastor is still chosen here. A list the\n    pastor has not saved yet stays as it is here.\n  - This program's copy of the portal page and the rules: Website Update 100 (rules version 53), with Beacon Pastor on the\n    phone (/pastor/)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.37/Beacon_Attendance_Setup_1.28.37.zip",
+   "whats_new": "v4.41.0 - BEACON SECRETARY ON THE PHONE (and Website Update 101, rules 54)\n  - The office officers (Officer: Secretary, Officer: Admin, and the lead pastor) have Beacon Secretary on the phone:\n    https://<your project>.web.app/secretary/ (Chrome → ⋮ → Install app; iPhone: Safari → Share → Add to Home Screen),\n    signed in with their member ID and PIN. Members: find, see, change the details, add a new member, archive, bring back.\n    Who came: a date, who checked in, check someone in or take a check-in away. Reports: members by category, the last\n    services, the months, birthdays by month.\n  - This program stays the master copy: each change from the phone is done here at the next sync (as if done here) and the\n    phone shows \"done\" with the result (a new member's ID). The sync line says how many changes came from the phone.\n  - This program's copy of the portal page and the rules: Website Update 101 (rules version 54), with website/secretary/."
   },
   {
    "key": "admin",
