@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T01:19:19Z",
+ "updated": "2026-11-26T01:23:53Z",
  "apps": [
   {
    "key": "finance",
@@ -16,26 +16,26 @@
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.39",
-   "program_version": "4.41.2",
-   "tag": "secretary-v1.28.39",
-   "file": "Beacon_Secretary_Setup_1.28.39.zip",
-   "size": 43727526,
+   "version": "1.28.40",
+   "program_version": "4.41.3",
+   "tag": "secretary-v1.28.40",
+   "file": "Beacon_Secretary_Setup_1.28.40.zip",
+   "size": 43276330,
    "date": "2026-11-26",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.39/Beacon_Secretary_Setup_1.28.39.zip",
-   "whats_new": "v4.41.2 - PORTAL COPY = WEBSITE UPDATE 103 (no change to the program itself; rules stay 55)\n  - Beacon Pastor on the phone: Giving → By member can be searched (name or ID) and ordered; the sub-tabs float at the top (the one chosen stays in sight), the schedule's activities are\n    folded (See details), and the buttons of Beacon Pastor and Beacon Secretary on the phone are rounded and modern."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.40/Beacon_Secretary_Setup_1.28.40.zip",
+   "whats_new": "v4.41.3 - PORTAL COPY = WEBSITE UPDATE 104 (no change to the program itself; rules stay 55)\n  - The Home Screen icons of Beacon Pastor (a gold cross) and Beacon Secretary (a gold clipboard) on the phone, like Beacon\n    Admin's and Beacon Worship's."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.39",
-   "program_version": "4.41.2",
-   "tag": "attendance-v1.28.39",
-   "file": "Beacon_Attendance_Setup_1.28.39.zip",
-   "size": 43732009,
+   "version": "1.28.40",
+   "program_version": "4.41.3",
+   "tag": "attendance-v1.28.40",
+   "file": "Beacon_Attendance_Setup_1.28.40.zip",
+   "size": 43274177,
    "date": "2026-11-26",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.39/Beacon_Attendance_Setup_1.28.39.zip",
-   "whats_new": "v4.41.2 - PORTAL COPY = WEBSITE UPDATE 103 (no change to the program itself; rules stay 55)\n  - Beacon Pastor on the phone: Giving → By member can be searched (name or ID) and ordered; the sub-tabs float at the top (the one chosen stays in sight), the schedule's activities are\n    folded (See details), and the buttons of Beacon Pastor and Beacon Secretary on the phone are rounded and modern."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.40/Beacon_Attendance_Setup_1.28.40.zip",
+   "whats_new": "v4.41.3 - PORTAL COPY = WEBSITE UPDATE 104 (no change to the program itself; rules stay 55)\n  - The Home Screen icons of Beacon Pastor (a gold cross) and Beacon Secretary (a gold clipboard) on the phone, like Beacon\n    Admin's and Beacon Worship's."
   },
   {
    "key": "admin",
