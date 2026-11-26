@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T18:33:36Z",
+ "updated": "2026-11-26T18:39:45Z",
  "apps": [
   {
    "key": "finance",
@@ -16,26 +16,26 @@
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.46",
-   "program_version": "4.43.3",
-   "tag": "secretary-v1.28.46",
-   "file": "Beacon_Secretary_Setup_1.28.46.zip",
-   "size": 46494831,
+   "version": "1.28.47",
+   "program_version": "4.43.4",
+   "tag": "secretary-v1.28.47",
+   "file": "Beacon_Secretary_Setup_1.28.47.zip",
+   "size": 46493264,
    "date": "2026-11-26",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.46/Beacon_Secretary_Setup_1.28.46.zip",
-   "whats_new": "v4.43.3 - NO MORE FREEZE; BAPTISM & DEDICATION IN ONE PLACE\n  - Beacon Secretary froze once Documents or Baptism & Dedication had been opened: the new look re-applied its button\n    styles at every \"theme changed\" message, and applying them sends that message again, so the window was laid out\n    again about 30 times a second. Now the styles are applied again only when the theme's colours really change.\n  - Documents no longer has a Dedication & Baptism tab. Everything is on the Baptism & Dedication page: Add, Change,\n    Delete; Import from Excel, Blank Excel form, Usual words; Choose all, Certificates (PDF) and Word."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.47/Beacon_Secretary_Setup_1.28.47.zip",
+   "whats_new": "v4.43.4 - LINK AN IMPORTED BAPTISM OR DEDICATION TO A MEMBER\n  - Import from Excel: in the list shown before importing, choose a person and click Link to a member… (or double-click\n    them) to choose who they are in the members list, or Not a member. Useful when two members have the same name, or the\n    name in the workbook is written differently. The member's profile takes the date.\n  - Baptism & Dedication: Link to a member… links a record already there (an imported one, say) to a member."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.46",
-   "program_version": "4.43.3",
-   "tag": "attendance-v1.28.46",
-   "file": "Beacon_Attendance_Setup_1.28.46.zip",
-   "size": 46490442,
+   "version": "1.28.47",
+   "program_version": "4.43.4",
+   "tag": "attendance-v1.28.47",
+   "file": "Beacon_Attendance_Setup_1.28.47.zip",
+   "size": 46492042,
    "date": "2026-11-26",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.46/Beacon_Attendance_Setup_1.28.46.zip",
-   "whats_new": "v4.43.3 - NO MORE FREEZE; BAPTISM & DEDICATION IN ONE PLACE\n  - Beacon Secretary froze once Documents or Baptism & Dedication had been opened: the new look re-applied its button\n    styles at every \"theme changed\" message, and applying them sends that message again, so the window was laid out\n    again about 30 times a second. Now the styles are applied again only when the theme's colours really change.\n  - Documents no longer has a Dedication & Baptism tab. Everything is on the Baptism & Dedication page: Add, Change,\n    Delete; Import from Excel, Blank Excel form, Usual words; Choose all, Certificates (PDF) and Word."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.47/Beacon_Attendance_Setup_1.28.47.zip",
+   "whats_new": "v4.43.4 - LINK AN IMPORTED BAPTISM OR DEDICATION TO A MEMBER\n  - Import from Excel: in the list shown before importing, choose a person and click Link to a member… (or double-click\n    them) to choose who they are in the members list, or Not a member. Useful when two members have the same name, or the\n    name in the workbook is written differently. The member's profile takes the date.\n  - Baptism & Dedication: Link to a member… links a record already there (an imported one, say) to a member."
   },
   {
    "key": "admin",
