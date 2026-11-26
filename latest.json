@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T08:11:51Z",
+ "updated": "2026-11-26T13:09:11Z",
  "apps": [
   {
    "key": "finance",
@@ -40,26 +40,26 @@
   {
    "key": "admin",
    "name": "Beacon Admin",
-   "version": "1.31.0",
-   "program_version": "1.31.0",
-   "tag": "admin-v1.31.0",
-   "file": "Beacon_Admin_Setup_1.31.0.zip",
-   "size": 20812999,
+   "version": "1.31.1",
+   "program_version": "1.31.1",
+   "tag": "admin-v1.31.1",
+   "file": "Beacon_Admin_Setup_1.31.1.zip",
+   "size": 20814453,
    "date": "2026-11-26",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/admin-v1.31.0/Beacon_Admin_Setup_1.31.0.zip",
-   "whats_new": "NEW IN 1.31.0: TWO COMPUTERS, NOTHING TWICE - When Beacon Admin is open on two computers, only ONE of them now puts the phones' changes (Beacon Admin on the phone) and what Beacon Worship & Media hands over into the schedule, so the same line-up is never added twice; the other gets it through Google Drive, and takes over by itself 10 minutes after the first one is closed (Online page, Google Drive: it says which computer does it). An activity made on a phone gets the phone's own number, so both computers make the SAME activity, and the list of those activities now travels with Google Drive. When the church's website needs a newer Beacon Admin, it says \"Please update\" and stops going online until it is updated. The \"Firebase refused\" message now says Beacon Pastor → Publish Everything. Needs Website Update 106 (rules 57) for the one-computer-at-a-time part; with older rules every computer does it, as before."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/admin-v1.31.1/Beacon_Admin_Setup_1.31.1.zip",
+   "whats_new": "NEW IN 1.31.1: CLEARER SIGN-IN, LESS UNUSED CODE - A wrong email or password now says \"The email or password is not correct.\" (it showed Firebase's own code). Parts nobody used were removed (members' sign-in accounts, which only Beacon Secretary makes; two unused schedule queries; unused scrolling helpers and imports). Nothing else changed."
   },
   {
    "key": "worship",
    "name": "Beacon Worship & Media",
-   "version": "1.1.0",
-   "program_version": "1.1.0",
-   "tag": "worship-v1.1.0",
-   "file": "Beacon_Worship_Media_Setup_1.1.0.zip",
-   "size": 14513107,
+   "version": "1.1.1",
+   "program_version": "1.1.1",
+   "tag": "worship-v1.1.1",
+   "file": "Beacon_Worship_Media_Setup_1.1.1.zip",
+   "size": 14511199,
    "date": "2026-11-26",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/worship-v1.1.0/Beacon_Worship_Media_Setup_1.1.0.zip",
-   "whats_new": "NEW IN 1.1.0: TWO COMPUTERS, SAFELY - Beacon Worship & Media can now be used on two computers (for example the Music Leader's laptop and the pastor's computer). Online & Sharing → 5: import the Google sign-in file (the same one as Beacon Admin's; on a computer with Beacon Admin it offers that one), click Connect, then Sync Now. The songs, set lists, devotionals and teams then go between the computers through the church's Google Drive (at start, every 10 minutes, before Publish and when closing); when both changed something, the two are combined and nothing is lost. Only ONE open computer at a time does the changes from the Music Leaders' phones and the automatic publish, so nothing is done twice; the other one says which computer does it, and takes over by itself 10 minutes after that one is closed (or at once with \"Do the phones' changes on this computer\"). A new computer can choose \"From the other computer, through Google Drive\" at the first start. Also: when the church's website needs a newer Beacon Worship & Media, this program says \"Please update\" and stops going online until it is updated (so an old copy cannot undo the new one's work); it can sign in with a Beacon Worship & Media account (worship_office) that can do only the worship and media work, not everything of the office. Needs Website Update 106 (rules 57) for the last three; with older rules it works as 1.0 did."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/worship-v1.1.1/Beacon_Worship_Media_Setup_1.1.1.zip",
+   "whats_new": "NEW IN 1.1.1: CLEARER SIGN-IN, LESS UNUSED CODE - A wrong email or password now says \"The email or password is not correct.\" (it showed Firebase's own code). Parts nobody used were removed (members' sign-in accounts, which only Beacon Secretary makes; unused scrolling and restore-point helpers; chord helpers). Nothing else changed."
   },
   {
    "key": "camhost",
