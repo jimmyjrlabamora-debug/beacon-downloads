@@ -1,41 +1,41 @@
 {
- "updated": "2026-11-26T13:21:37Z",
+ "updated": "2026-11-26T18:33:36Z",
  "apps": [
   {
    "key": "finance",
    "name": "Beacon Finance",
-   "version": "48.21.1",
-   "program_version": "48.21.1",
-   "tag": "finance-v48.21.1",
-   "file": "Beacon_Finance_Setup_48.21.1.zip",
-   "size": 26704002,
+   "version": "48.21.2",
+   "program_version": "48.21.2",
+   "tag": "finance-v48.21.2",
+   "file": "Beacon_Finance_Setup_48.21.2.zip",
+   "size": 26609952,
    "date": "2026-11-26",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/finance-v48.21.1/Beacon_Finance_Setup_48.21.1.zip",
-   "whats_new": "48.21.1  (November 2026)  LESS UNUSED CODE\n  - Parts of the program that nothing used any more were removed (old book functions, unused portal and QR helpers, unused\n    imports). Nothing you see or do changes.\n  - A correction to the 48.21.0 note: the Copy Security Rules and Make Giving Page Files buttons are no longer in Online\n    Giving (Beacon Pastor → Publish Everything publishes the rules and the giving page); their code is kept for the Church\n    Edition (see CHURCH_EDITION_GUIDE.txt, part 7)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/finance-v48.21.2/Beacon_Finance_Setup_48.21.2.zip",
+   "whats_new": "48.21.2  (November 2026)  THE CHURCH FINANCE EDITION IS REMOVED\n  - The Church Finance Edition (the same program for other churches, with a blank book and a setup wizard) is no longer\n    made: make_church_edition.py, build_church_edition.bat, build_mac_apps.sh, CHURCH_EDITION_GUIDE.txt, the setup wizard\n    and every \"if this is the Church Edition\" step in the program are gone. Beacon's books never used them; nothing you see\n    or do changes. Build the Mac app with  bash build_mac_app.sh.\n  - This program's own copy of the giving page (giving_page/) and the code that made the giving page files are gone too:\n    Beacon Pastor → Publish Everything makes and publishes the giving page."
   },
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.45",
-   "program_version": "4.43.2",
-   "tag": "secretary-v1.28.45",
-   "file": "Beacon_Secretary_Setup_1.28.45.zip",
-   "size": 46496838,
+   "version": "1.28.46",
+   "program_version": "4.43.3",
+   "tag": "secretary-v1.28.46",
+   "file": "Beacon_Secretary_Setup_1.28.46.zip",
+   "size": 46494831,
    "date": "2026-11-26",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.45/Beacon_Secretary_Setup_1.28.45.zip",
-   "whats_new": "v4.43.2 - CERTIFICATES ON A4; THE BAPTISM CERTIFICATE WITH ITS BORDER; DOCUMENTS IN THE NEW LOOK\n  - Both certificates are A4 (landscape), as PDF and as Word. The Certificate of Baptism has the church's blue Celtic border,\n    24 pt from the paper's edge as in the Word certificate, made for A4; the design inside it is not stretched. Its words are\n    where the church's Word certificate has them, in its fonts (Perpetua, Old English Text MT, Gill Sans MT, Vivaldi).\n  - Documents: modern flat buttons and tabs (pills), in the colours of the theme; tabs that do not fit go to a second line.\n    The buttons of a document (Save, Save & make PDF …) now stay in sight on a small screen. Baptism & Dedication: the same look.\n  - Windows setup: the libraries are downloaded again whenever their list changes (a kept download could leave out\n    reportlab and pypdf, added in 4.43.1), and the build stops if a listed library is not in the setup."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.46/Beacon_Secretary_Setup_1.28.46.zip",
+   "whats_new": "v4.43.3 - NO MORE FREEZE; BAPTISM & DEDICATION IN ONE PLACE\n  - Beacon Secretary froze once Documents or Baptism & Dedication had been opened: the new look re-applied its button\n    styles at every \"theme changed\" message, and applying them sends that message again, so the window was laid out\n    again about 30 times a second. Now the styles are applied again only when the theme's colours really change.\n  - Documents no longer has a Dedication & Baptism tab. Everything is on the Baptism & Dedication page: Add, Change,\n    Delete; Import from Excel, Blank Excel form, Usual words; Choose all, Certificates (PDF) and Word."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.45",
-   "program_version": "4.43.2",
-   "tag": "attendance-v1.28.45",
-   "file": "Beacon_Attendance_Setup_1.28.45.zip",
-   "size": 46493099,
+   "version": "1.28.46",
+   "program_version": "4.43.3",
+   "tag": "attendance-v1.28.46",
+   "file": "Beacon_Attendance_Setup_1.28.46.zip",
+   "size": 46490442,
    "date": "2026-11-26",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.45/Beacon_Attendance_Setup_1.28.45.zip",
-   "whats_new": "v4.43.2 - CERTIFICATES ON A4; THE BAPTISM CERTIFICATE WITH ITS BORDER; DOCUMENTS IN THE NEW LOOK\n  - Both certificates are A4 (landscape), as PDF and as Word. The Certificate of Baptism has the church's blue Celtic border,\n    24 pt from the paper's edge as in the Word certificate, made for A4; the design inside it is not stretched. Its words are\n    where the church's Word certificate has them, in its fonts (Perpetua, Old English Text MT, Gill Sans MT, Vivaldi).\n  - Documents: modern flat buttons and tabs (pills), in the colours of the theme; tabs that do not fit go to a second line.\n    The buttons of a document (Save, Save & make PDF …) now stay in sight on a small screen. Baptism & Dedication: the same look.\n  - Windows setup: the libraries are downloaded again whenever their list changes (a kept download could leave out\n    reportlab and pypdf, added in 4.43.1), and the build stops if a listed library is not in the setup."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.46/Beacon_Attendance_Setup_1.28.46.zip",
+   "whats_new": "v4.43.3 - NO MORE FREEZE; BAPTISM & DEDICATION IN ONE PLACE\n  - Beacon Secretary froze once Documents or Baptism & Dedication had been opened: the new look re-applied its button\n    styles at every \"theme changed\" message, and applying them sends that message again, so the window was laid out\n    again about 30 times a second. Now the styles are applied again only when the theme's colours really change.\n  - Documents no longer has a Dedication & Baptism tab. Everything is on the Baptism & Dedication page: Add, Change,\n    Delete; Import from Excel, Blank Excel form, Usual words; Choose all, Certificates (PDF) and Word."
   },
   {
    "key": "admin",
