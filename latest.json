@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T01:23:53Z",
+ "updated": "2026-11-26T04:12:18Z",
  "apps": [
   {
    "key": "finance",
@@ -52,13 +52,13 @@
   {
    "key": "camhost",
    "name": "Beacon Cam Host",
-   "version": "0.6.0",
-   "program_version": "0.6.0",
-   "tag": "camhost-v0.6.0",
-   "file": "BeaconCamHost-Setup-0.6.0.zip",
-   "size": 22651141,
-   "date": "2026-11-20",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/camhost-v0.6.0/BeaconCamHost-Setup-0.6.0.zip",
+   "version": "0.7.0",
+   "program_version": "0.7.0",
+   "tag": "camhost-v0.7.0",
+   "file": "BeaconCamHost-Setup-0.7.0.zip",
+   "size": 22657654,
+   "date": "2026-11-26",
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/camhost-v0.7.0/BeaconCamHost-Setup-0.7.0.zip",
    "whats_new": ""
   }
  ]
