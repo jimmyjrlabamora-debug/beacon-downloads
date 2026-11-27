@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T03:22:50Z",
+ "updated": "2026-11-27T03:34:56Z",
  "apps": [
   {
    "key": "finance",
@@ -16,26 +16,26 @@
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.47",
-   "program_version": "4.43.4",
-   "tag": "secretary-v1.28.47",
-   "file": "Beacon_Secretary_Setup_1.28.47.zip",
-   "size": 46493264,
-   "date": "2026-11-26",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.47/Beacon_Secretary_Setup_1.28.47.zip",
-   "whats_new": "v4.43.4 - LINK AN IMPORTED BAPTISM OR DEDICATION TO A MEMBER\n  - Import from Excel: in the list shown before importing, choose a person and click Link to a member… (or double-click\n    them) to choose who they are in the members list, or Not a member. Useful when two members have the same name, or the\n    name in the workbook is written differently. The member's profile takes the date.\n  - Baptism & Dedication: Link to a member… links a record already there (an imported one, say) to a member."
+   "version": "1.28.50",
+   "program_version": "4.43.7",
+   "tag": "secretary-v1.28.50",
+   "file": "Beacon_Secretary_Setup_1.28.50.zip",
+   "size": 46497627,
+   "date": "2026-11-27",
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.50/Beacon_Secretary_Setup_1.28.50.zip",
+   "whats_new": "v4.43.7 - THE WINDOWS SETUP IS MADE AGAIN\n  - The setups of 4.43.5 and 4.43.6 were not made: GitHub's window tests of Home failed (the test looked for the banner\n    where it was before the page could scroll, and the banner's pictures did not say which window they belong to).\n    Both fixed; the program is the same as 4.43.6 (every page scrolls, nothing cut off on the card pages)."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.47",
-   "program_version": "4.43.4",
-   "tag": "attendance-v1.28.47",
-   "file": "Beacon_Attendance_Setup_1.28.47.zip",
-   "size": 46492042,
-   "date": "2026-11-26",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.47/Beacon_Attendance_Setup_1.28.47.zip",
-   "whats_new": "v4.43.4 - LINK AN IMPORTED BAPTISM OR DEDICATION TO A MEMBER\n  - Import from Excel: in the list shown before importing, choose a person and click Link to a member… (or double-click\n    them) to choose who they are in the members list, or Not a member. Useful when two members have the same name, or the\n    name in the workbook is written differently. The member's profile takes the date.\n  - Baptism & Dedication: Link to a member… links a record already there (an imported one, say) to a member."
+   "version": "1.28.50",
+   "program_version": "4.43.7",
+   "tag": "attendance-v1.28.50",
+   "file": "Beacon_Attendance_Setup_1.28.50.zip",
+   "size": 46490421,
+   "date": "2026-11-27",
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.50/Beacon_Attendance_Setup_1.28.50.zip",
+   "whats_new": "v4.43.7 - THE WINDOWS SETUP IS MADE AGAIN\n  - The setups of 4.43.5 and 4.43.6 were not made: GitHub's window tests of Home failed (the test looked for the banner\n    where it was before the page could scroll, and the banner's pictures did not say which window they belong to).\n    Both fixed; the program is the same as 4.43.6 (every page scrolls, nothing cut off on the card pages)."
   },
   {
    "key": "admin",
