@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T16:10:10Z",
+ "updated": "2026-11-27T22:12:31Z",
  "apps": [
   {
    "key": "finance",
@@ -16,50 +16,50 @@
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.55",
-   "program_version": "4.44.1",
-   "tag": "secretary-v1.28.55",
-   "file": "Beacon_Secretary_Setup_1.28.55.zip",
-   "size": 46515955,
+   "version": "1.28.56",
+   "program_version": "4.45.0",
+   "tag": "secretary-v1.28.56",
+   "file": "Beacon_Secretary_Setup_1.28.56.zip",
+   "size": 46524662,
    "date": "2026-11-27",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.55/Beacon_Secretary_Setup_1.28.55.zip",
-   "whats_new": "v4.44.1 - THE CHILD'S BIRTH CERTIFICATE WITH A DEDICATION REQUEST (needs Website Update 109)\n  - In the member portal, a parent may add the child's birth certificate to a dedication request (a photo or a PDF; it is\n    optional). Only that member and the church office can see it.\n  - Requests: the list has a Birth cert. column (Sent, Checked ✓). Open the request → View birth certificate (it opens in\n    the computer's viewer, beside the request) → fix the spelling if needed → tick \"I checked the details against the\n    birth certificate\" → Save changes.\n  - The file is kept in Documents ▸ Certifications ▸ Birth certificates (requests) (it goes to the other computer through\n    Google Drive; it is not listed in Saved certificates). Once the request is finished (Done, Not accepted, Cancelled), the\n    copy in the member portal is removed; the office keeps its own."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.56/Beacon_Secretary_Setup_1.28.56.zip",
+   "whats_new": "v4.45.0 - HELP: UPDATES INSTALL THEMSELVES (setup 1.28.56)\n  - A new page, Help (at the bottom of the menu): Check for updates asks the download page for the newest version;\n    Update now downloads it, closes the program (with its usual backup and sync to Google Drive), installs it and opens\n    it again. Windows asks once for permission: click Yes. The church records are never touched.\n  - The program also looks by itself 20 seconds after it opens and asks (Later / Update now); this can be turned off.\n    In Usher mode the Help page is hidden.\n  - The User Guide (a PDF with pictures of every page) comes with the next update: Help → Open the User Guide.\n  - Install this version by hand once (from the download page); after that, updates come through Help."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.55",
-   "program_version": "4.44.1",
-   "tag": "attendance-v1.28.55",
-   "file": "Beacon_Attendance_Setup_1.28.55.zip",
-   "size": 46517137,
+   "version": "1.28.56",
+   "program_version": "4.45.0",
+   "tag": "attendance-v1.28.56",
+   "file": "Beacon_Attendance_Setup_1.28.56.zip",
+   "size": 46527765,
    "date": "2026-11-27",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.55/Beacon_Attendance_Setup_1.28.55.zip",
-   "whats_new": "v4.44.1 - THE CHILD'S BIRTH CERTIFICATE WITH A DEDICATION REQUEST (needs Website Update 109)\n  - In the member portal, a parent may add the child's birth certificate to a dedication request (a photo or a PDF; it is\n    optional). Only that member and the church office can see it.\n  - Requests: the list has a Birth cert. column (Sent, Checked ✓). Open the request → View birth certificate (it opens in\n    the computer's viewer, beside the request) → fix the spelling if needed → tick \"I checked the details against the\n    birth certificate\" → Save changes.\n  - The file is kept in Documents ▸ Certifications ▸ Birth certificates (requests) (it goes to the other computer through\n    Google Drive; it is not listed in Saved certificates). Once the request is finished (Done, Not accepted, Cancelled), the\n    copy in the member portal is removed; the office keeps its own."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.56/Beacon_Attendance_Setup_1.28.56.zip",
+   "whats_new": "v4.45.0 - HELP: UPDATES INSTALL THEMSELVES (setup 1.28.56)\n  - A new page, Help (at the bottom of the menu): Check for updates asks the download page for the newest version;\n    Update now downloads it, closes the program (with its usual backup and sync to Google Drive), installs it and opens\n    it again. Windows asks once for permission: click Yes. The church records are never touched.\n  - The program also looks by itself 20 seconds after it opens and asks (Later / Update now); this can be turned off.\n    In Usher mode the Help page is hidden.\n  - The User Guide (a PDF with pictures of every page) comes with the next update: Help → Open the User Guide.\n  - Install this version by hand once (from the download page); after that, updates come through Help."
   },
   {
    "key": "admin",
    "name": "Beacon Admin",
-   "version": "1.31.3",
-   "program_version": "1.31.3",
-   "tag": "admin-v1.31.3",
-   "file": "Beacon_Admin_Setup_1.31.3.zip",
-   "size": 24553320,
+   "version": "1.32.0",
+   "program_version": "1.32.0",
+   "tag": "admin-v1.32.0",
+   "file": "Beacon_Admin_Setup_1.32.0.zip",
+   "size": 24562832,
    "date": "2026-11-27",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/admin-v1.31.3/Beacon_Admin_Setup_1.31.3.zip",
-   "whats_new": "NEW IN 1.31.3: EVERY PAGE SCROLLS - When the window is lower than a page (Announcement Drafts, Schedule, …), the rest of the page is reached with the scroll bar or the mouse wheel instead of being cut off at the bottom. A page that fits shows no scroll bar; a list or a text box under the mouse still scrolls itself."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/admin-v1.32.0/Beacon_Admin_Setup_1.32.0.zip",
+   "whats_new": "NEW IN 1.32.0: HELP: UPDATES INSTALL THEMSELVES - A new page, Help (at the bottom of the menu). Check for updates asks the download page for the newest version; Update now downloads it, closes the program (with its usual backup and sync), installs it and opens the program again. Windows asks once for permission: click Yes. The program also looks by itself 20 seconds after it opens and asks (Later / Update now). The church records are never touched. The User Guide (a PDF with pictures) comes with the next update; Open the User Guide opens it. This version must be installed by hand once (from the download page); after that, updates come through Help. ALSO: Publish & Notify also sends the last three activities, so members see them in the portal under Church → Schedule → Recent (Website Update 110)."
   },
   {
    "key": "worship",
    "name": "Beacon Worship & Media",
-   "version": "1.1.3",
-   "program_version": "1.1.3",
-   "tag": "worship-v1.1.3",
-   "file": "Beacon_Worship_Media_Setup_1.1.3.zip",
-   "size": 24228582,
+   "version": "1.2.0",
+   "program_version": "1.2.0",
+   "tag": "worship-v1.2.0",
+   "file": "Beacon_Worship_Media_Setup_1.2.0.zip",
+   "size": 24240678,
    "date": "2026-11-27",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/worship-v1.1.3/Beacon_Worship_Media_Setup_1.1.3.zip",
-   "whats_new": "NEW IN 1.1.3: EVERY PAGE SCROLLS - When the window is lower than a page, the rest of the page is reached with the scroll bar or the mouse wheel instead of being cut off at the bottom. A page that fits shows no scroll bar; a list or a text box under the mouse still scrolls itself."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/worship-v1.2.0/Beacon_Worship_Media_Setup_1.2.0.zip",
+   "whats_new": "NEW IN 1.2.0: HELP: UPDATES INSTALL THEMSELVES - A new page, Help (at the bottom of the menu). Check for updates asks the download page for the newest version; Update now downloads it, closes the program (with its usual backup and sync), installs it and opens the program again. Windows asks once for permission: click Yes. The program also looks by itself 20 seconds after it opens and asks (Later / Update now). The church records are never touched. The User Guide (a PDF with pictures) comes with the next update; Open the User Guide opens it. This version must be installed by hand once (from the download page); after that, updates come through Help."
   },
   {
    "key": "camhost",
