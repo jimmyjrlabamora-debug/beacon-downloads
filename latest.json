@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:07:55Z",
+ "updated": "2026-11-27T05:47:34Z",
  "apps": [
   {
    "key": "finance",
@@ -16,26 +16,26 @@
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.51",
-   "program_version": "4.43.8",
-   "tag": "secretary-v1.28.51",
-   "file": "Beacon_Secretary_Setup_1.28.51.zip",
-   "size": 46498163,
+   "version": "1.28.52",
+   "program_version": "4.43.9",
+   "tag": "secretary-v1.28.52",
+   "file": "Beacon_Secretary_Setup_1.28.52.zip",
+   "size": 46501696,
    "date": "2026-11-27",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.51/Beacon_Secretary_Setup_1.28.51.zip",
-   "whats_new": "v4.43.8 - EVERY BIRTHDAY OF THE MONTH; ONLINE'S BUTTONS STAY IN VIEW\n  - Dashboard → Birthdays this month: every birthday is listed (it showed 10 and \"and 5 more\"). A long list scrolls\n    inside the card (scroll bar, mouse wheel); a short one has no scroll bar.\n  - Online → Member Portal and Announcements: the buttons at the bottom always stay in view; on a low window the list\n    gets shorter and scrolls instead of the whole page. (Google Drive, which has no list, still scrolls as a page.)"
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.52/Beacon_Secretary_Setup_1.28.52.zip",
+   "whats_new": "v4.43.9 - SAVED CERTIFICATES; SEND BY EMAIL\n  - The left menu: Baptism & Dedication is now right before Documents.\n  - Baptism & Dedication has a third tab, Saved certificates: every certificate file made (PDF, and Word files that can\n    still be changed), newest first. Search finds a file by its name or by a name on the certificate; double-click (or\n    View) opens it. \"Saved certificates of this person\" (Water Baptism / Child Dedication tabs) shows the files of the\n    chosen person.\n  - Email…: on Documents (the PDF of the document) and on Saved certificates. A new email opens with the file attached\n    in Outlook / the computer's mail program (Mail on the Mac); or, with Gmail, a new Gmail email opens in the browser and\n    the file is shown in its folder to drag in. Type who it is for and press Send there. No password is kept in the program."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.51",
-   "program_version": "4.43.8",
-   "tag": "attendance-v1.28.51",
-   "file": "Beacon_Attendance_Setup_1.28.51.zip",
-   "size": 46494314,
+   "version": "1.28.52",
+   "program_version": "4.43.9",
+   "tag": "attendance-v1.28.52",
+   "file": "Beacon_Attendance_Setup_1.28.52.zip",
+   "size": 46502047,
    "date": "2026-11-27",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.51/Beacon_Attendance_Setup_1.28.51.zip",
-   "whats_new": "v4.43.8 - EVERY BIRTHDAY OF THE MONTH; ONLINE'S BUTTONS STAY IN VIEW\n  - Dashboard → Birthdays this month: every birthday is listed (it showed 10 and \"and 5 more\"). A long list scrolls\n    inside the card (scroll bar, mouse wheel); a short one has no scroll bar.\n  - Online → Member Portal and Announcements: the buttons at the bottom always stay in view; on a low window the list\n    gets shorter and scrolls instead of the whole page. (Google Drive, which has no list, still scrolls as a page.)"
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.52/Beacon_Attendance_Setup_1.28.52.zip",
+   "whats_new": "v4.43.9 - SAVED CERTIFICATES; SEND BY EMAIL\n  - The left menu: Baptism & Dedication is now right before Documents.\n  - Baptism & Dedication has a third tab, Saved certificates: every certificate file made (PDF, and Word files that can\n    still be changed), newest first. Search finds a file by its name or by a name on the certificate; double-click (or\n    View) opens it. \"Saved certificates of this person\" (Water Baptism / Child Dedication tabs) shows the files of the\n    chosen person.\n  - Email…: on Documents (the PDF of the document) and on Saved certificates. A new email opens with the file attached\n    in Outlook / the computer's mail program (Mail on the Mac); or, with Gmail, a new Gmail email opens in the browser and\n    the file is shown in its folder to drag in. Type who it is for and press Send there. No password is kept in the program."
   },
   {
    "key": "admin",
