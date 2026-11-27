@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T18:39:45Z",
+ "updated": "2026-11-27T02:17:13Z",
  "apps": [
   {
    "key": "finance",
@@ -52,14 +52,14 @@
   {
    "key": "worship",
    "name": "Beacon Worship & Media",
-   "version": "1.1.1",
-   "program_version": "1.1.1",
-   "tag": "worship-v1.1.1",
-   "file": "Beacon_Worship_Media_Setup_1.1.1.zip",
-   "size": 14511199,
-   "date": "2026-11-26",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/worship-v1.1.1/Beacon_Worship_Media_Setup_1.1.1.zip",
-   "whats_new": "NEW IN 1.1.1: CLEARER SIGN-IN, LESS UNUSED CODE - A wrong email or password now says \"The email or password is not correct.\" (it showed Firebase's own code). Parts nobody used were removed (members' sign-in accounts, which only Beacon Secretary makes; unused scrolling and restore-point helpers; chord helpers). Nothing else changed."
+   "version": "1.1.2",
+   "program_version": "1.1.2",
+   "tag": "worship-v1.1.2",
+   "file": "Beacon_Worship_Media_Setup_1.1.2.zip",
+   "size": 24231885,
+   "date": "2026-11-27",
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/worship-v1.1.2/Beacon_Worship_Media_Setup_1.1.2.zip",
+   "whats_new": "NEW IN 1.1.2: GOOGLE DRIVE WORKS ON WINDOWS - The Windows setup of 1.1.1 did not bring the Google Drive libraries, so Online & Sharing → 5. More than one computer said \"Could not connect to Google Drive. The Google Drive libraries are not installed.\" This setup brings them (Google's API client and sign-in). Install it over 1.1.1: your songs, set lists and the sign-in stay. The program itself did not change (the Mac app 1.1.1 already had them)."
   },
   {
    "key": "camhost",
