@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-27T02:34:35Z",
+ "updated": "2026-11-27T03:22:50Z",
  "apps": [
   {
    "key": "finance",
    "name": "Beacon Finance",
-   "version": "48.21.2",
-   "program_version": "48.21.2",
-   "tag": "finance-v48.21.2",
-   "file": "Beacon_Finance_Setup_48.21.2.zip",
-   "size": 26609952,
-   "date": "2026-11-26",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/finance-v48.21.2/Beacon_Finance_Setup_48.21.2.zip",
-   "whats_new": "48.21.2  (November 2026)  THE CHURCH FINANCE EDITION IS REMOVED\n  - The Church Finance Edition (the same program for other churches, with a blank book and a setup wizard) is no longer\n    made: make_church_edition.py, build_church_edition.bat, build_mac_apps.sh, CHURCH_EDITION_GUIDE.txt, the setup wizard\n    and every \"if this is the Church Edition\" step in the program are gone. Beacon's books never used them; nothing you see\n    or do changes. Build the Mac app with  bash build_mac_app.sh.\n  - This program's own copy of the giving page (giving_page/) and the code that made the giving page files are gone too:\n    Beacon Pastor → Publish Everything makes and publishes the giving page."
+   "version": "48.21.3",
+   "program_version": "48.21.3",
+   "tag": "finance-v48.21.3",
+   "file": "Beacon_Finance_Setup_48.21.3.zip",
+   "size": 26608458,
+   "date": "2026-11-27",
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/finance-v48.21.3/Beacon_Finance_Setup_48.21.3.zip",
+   "whats_new": "48.21.3  (November 2026)  THE MENU AND EVERY PAGE SCROLL; A CLEAR SEARCH SIGN\n  - The left menu scrolls when the window is lower than the menu (on a laptop, or with bigger letters, the pages after\n    ADMIN were cut off). The version line stays at the bottom.\n  - Every page (Offering Slips to Settings & Audit) scrolls when the window is lower than the page: what was hidden at\n    the bottom is reached with the scroll bar or the mouse wheel. A page that fits shows no scroll bar. (The Dashboard\n    already scrolled.) A list or a text box under the mouse still scrolls itself.\n  - The search box has a drawn magnifying glass (the 🔍 letter was tiny on Windows); clicking it searches too."
   },
   {
    "key": "secretary",
@@ -40,26 +40,26 @@
   {
    "key": "admin",
    "name": "Beacon Admin",
-   "version": "1.31.2",
-   "program_version": "1.31.2",
-   "tag": "admin-v1.31.2",
-   "file": "Beacon_Admin_Setup_1.31.2.zip",
-   "size": 24554974,
+   "version": "1.31.3",
+   "program_version": "1.31.3",
+   "tag": "admin-v1.31.3",
+   "file": "Beacon_Admin_Setup_1.31.3.zip",
+   "size": 24553320,
    "date": "2026-11-27",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/admin-v1.31.2/Beacon_Admin_Setup_1.31.2.zip",
-   "whats_new": "NEW IN 1.31.2: BUTTONS ALWAYS SHOWN, PAGES OPEN AT ONCE - Schedule: the buttons under the line-up (Assign…, Change…, Remove, Add a role…, Check replies, Check arrivals) were cut off when the window was not tall: the line-up asked for too much room. They are now always shown (the line-up and the list get the room that is left), in an even grid of three, and the lists shrink their columns to fit instead of losing the last ones off the edge. The two Export buttons moved to the row with the filters, so the top row is never too full. The texts above the list wrap to the window's width. Online & Sharing: the Google Drive buttons are on two rows (Restore Points… ran off the edge)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/admin-v1.31.3/Beacon_Admin_Setup_1.31.3.zip",
+   "whats_new": "NEW IN 1.31.3: EVERY PAGE SCROLLS - When the window is lower than a page (Announcement Drafts, Schedule, …), the rest of the page is reached with the scroll bar or the mouse wheel instead of being cut off at the bottom. A page that fits shows no scroll bar; a list or a text box under the mouse still scrolls itself."
   },
   {
    "key": "worship",
    "name": "Beacon Worship & Media",
-   "version": "1.1.2",
-   "program_version": "1.1.2",
-   "tag": "worship-v1.1.2",
-   "file": "Beacon_Worship_Media_Setup_1.1.2.zip",
-   "size": 24231885,
+   "version": "1.1.3",
+   "program_version": "1.1.3",
+   "tag": "worship-v1.1.3",
+   "file": "Beacon_Worship_Media_Setup_1.1.3.zip",
+   "size": 24228582,
    "date": "2026-11-27",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/worship-v1.1.2/Beacon_Worship_Media_Setup_1.1.2.zip",
-   "whats_new": "NEW IN 1.1.2: GOOGLE DRIVE WORKS ON WINDOWS - The Windows setup of 1.1.1 did not bring the Google Drive libraries, so Online & Sharing → 5. More than one computer said \"Could not connect to Google Drive. The Google Drive libraries are not installed.\" This setup brings them (Google's API client and sign-in). Install it over 1.1.1: your songs, set lists and the sign-in stay. The program itself did not change (the Mac app 1.1.1 already had them)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/worship-v1.1.3/Beacon_Worship_Media_Setup_1.1.3.zip",
+   "whats_new": "NEW IN 1.1.3: EVERY PAGE SCROLLS - When the window is lower than a page, the rest of the page is reached with the scroll bar or the mouse wheel instead of being cut off at the bottom. A page that fits shows no scroll bar; a list or a text box under the mouse still scrolls itself."
   },
   {
    "key": "camhost",
