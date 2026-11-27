@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T02:17:13Z",
+ "updated": "2026-11-27T02:34:35Z",
  "apps": [
   {
    "key": "finance",
@@ -40,14 +40,14 @@
   {
    "key": "admin",
    "name": "Beacon Admin",
-   "version": "1.31.1",
-   "program_version": "1.31.1",
-   "tag": "admin-v1.31.1",
-   "file": "Beacon_Admin_Setup_1.31.1.zip",
-   "size": 20814453,
-   "date": "2026-11-26",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/admin-v1.31.1/Beacon_Admin_Setup_1.31.1.zip",
-   "whats_new": "NEW IN 1.31.1: CLEARER SIGN-IN, LESS UNUSED CODE - A wrong email or password now says \"The email or password is not correct.\" (it showed Firebase's own code). Parts nobody used were removed (members' sign-in accounts, which only Beacon Secretary makes; two unused schedule queries; unused scrolling helpers and imports). Nothing else changed."
+   "version": "1.31.2",
+   "program_version": "1.31.2",
+   "tag": "admin-v1.31.2",
+   "file": "Beacon_Admin_Setup_1.31.2.zip",
+   "size": 24554974,
+   "date": "2026-11-27",
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/admin-v1.31.2/Beacon_Admin_Setup_1.31.2.zip",
+   "whats_new": "NEW IN 1.31.2: BUTTONS ALWAYS SHOWN, PAGES OPEN AT ONCE - Schedule: the buttons under the line-up (Assign…, Change…, Remove, Add a role…, Check replies, Check arrivals) were cut off when the window was not tall: the line-up asked for too much room. They are now always shown (the line-up and the list get the room that is left), in an even grid of three, and the lists shrink their columns to fit instead of losing the last ones off the edge. The two Export buttons moved to the row with the filters, so the top row is never too full. The texts above the list wrap to the window's width. Online & Sharing: the Google Drive buttons are on two rows (Restore Points… ran off the edge)."
   },
   {
    "key": "worship",
