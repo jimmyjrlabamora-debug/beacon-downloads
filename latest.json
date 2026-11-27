@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T16:03:32Z",
+ "updated": "2026-11-27T16:10:10Z",
  "apps": [
   {
    "key": "finance",
@@ -16,26 +16,26 @@
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.54",
-   "program_version": "4.44.0",
-   "tag": "secretary-v1.28.54",
-   "file": "Beacon_Secretary_Setup_1.28.54.zip",
-   "size": 46515766,
+   "version": "1.28.55",
+   "program_version": "4.44.1",
+   "tag": "secretary-v1.28.55",
+   "file": "Beacon_Secretary_Setup_1.28.55.zip",
+   "size": 46515955,
    "date": "2026-11-27",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.54/Beacon_Secretary_Setup_1.28.54.zip",
-   "whats_new": "v4.44.0 - DEDICATION & BAPTISM REQUESTS FROM THE MEMBER PORTAL (needs Website Update 108)\n  - Members ask in the member portal (Me → Baptism): \"Dedicate my child\", \"I want to be baptized\" or \"I was already\n    baptized (record it)\", for themself, one of their children or someone else. They agree that the office keeps the\n    details, see the status of each request, and download the certificate there when it is ready.\n  - Baptism & Dedication has a new tab, Requests (with the number of new ones): open a request to fix the spelling and\n    link the member; Accept, Ask to correct (with a note), Not accepted (with a note), Schedule (one date, place, minister\n    and witnesses for several at once) and Mark done.\n  - Schedule makes the record (not yet on the profile). A dedication certificate can be printed from then on (it is given\n    during the service); a baptism certificate only after Mark done. Mark done puts the date on the member's profile,\n    makes the certificate (Saved certificates) and puts it in the portal for the member who asked (for a child: the\n    child's parents and guardians too). Upload again replaces it after a change.\n  - Both computers (Secretary and Attendance) bring the requests in; a decision is written only once, so two computers\n    never make two records. Requests that are finished leave the portal after a year (not accepted or cancelled: after 30\n    days); this computer keeps them, and the records stay."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.55/Beacon_Secretary_Setup_1.28.55.zip",
+   "whats_new": "v4.44.1 - THE CHILD'S BIRTH CERTIFICATE WITH A DEDICATION REQUEST (needs Website Update 109)\n  - In the member portal, a parent may add the child's birth certificate to a dedication request (a photo or a PDF; it is\n    optional). Only that member and the church office can see it.\n  - Requests: the list has a Birth cert. column (Sent, Checked ✓). Open the request → View birth certificate (it opens in\n    the computer's viewer, beside the request) → fix the spelling if needed → tick \"I checked the details against the\n    birth certificate\" → Save changes.\n  - The file is kept in Documents ▸ Certifications ▸ Birth certificates (requests) (it goes to the other computer through\n    Google Drive; it is not listed in Saved certificates). Once the request is finished (Done, Not accepted, Cancelled), the\n    copy in the member portal is removed; the office keeps its own."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.54",
-   "program_version": "4.44.0",
-   "tag": "attendance-v1.28.54",
-   "file": "Beacon_Attendance_Setup_1.28.54.zip",
-   "size": 46515182,
+   "version": "1.28.55",
+   "program_version": "4.44.1",
+   "tag": "attendance-v1.28.55",
+   "file": "Beacon_Attendance_Setup_1.28.55.zip",
+   "size": 46517137,
    "date": "2026-11-27",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.54/Beacon_Attendance_Setup_1.28.54.zip",
-   "whats_new": "v4.44.0 - DEDICATION & BAPTISM REQUESTS FROM THE MEMBER PORTAL (needs Website Update 108)\n  - Members ask in the member portal (Me → Baptism): \"Dedicate my child\", \"I want to be baptized\" or \"I was already\n    baptized (record it)\", for themself, one of their children or someone else. They agree that the office keeps the\n    details, see the status of each request, and download the certificate there when it is ready.\n  - Baptism & Dedication has a new tab, Requests (with the number of new ones): open a request to fix the spelling and\n    link the member; Accept, Ask to correct (with a note), Not accepted (with a note), Schedule (one date, place, minister\n    and witnesses for several at once) and Mark done.\n  - Schedule makes the record (not yet on the profile). A dedication certificate can be printed from then on (it is given\n    during the service); a baptism certificate only after Mark done. Mark done puts the date on the member's profile,\n    makes the certificate (Saved certificates) and puts it in the portal for the member who asked (for a child: the\n    child's parents and guardians too). Upload again replaces it after a change.\n  - Both computers (Secretary and Attendance) bring the requests in; a decision is written only once, so two computers\n    never make two records. Requests that are finished leave the portal after a year (not accepted or cancelled: after 30\n    days); this computer keeps them, and the records stay."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.55/Beacon_Attendance_Setup_1.28.55.zip",
+   "whats_new": "v4.44.1 - THE CHILD'S BIRTH CERTIFICATE WITH A DEDICATION REQUEST (needs Website Update 109)\n  - In the member portal, a parent may add the child's birth certificate to a dedication request (a photo or a PDF; it is\n    optional). Only that member and the church office can see it.\n  - Requests: the list has a Birth cert. column (Sent, Checked ✓). Open the request → View birth certificate (it opens in\n    the computer's viewer, beside the request) → fix the spelling if needed → tick \"I checked the details against the\n    birth certificate\" → Save changes.\n  - The file is kept in Documents ▸ Certifications ▸ Birth certificates (requests) (it goes to the other computer through\n    Google Drive; it is not listed in Saved certificates). Once the request is finished (Done, Not accepted, Cancelled), the\n    copy in the member portal is removed; the office keeps its own."
   },
   {
    "key": "admin",
