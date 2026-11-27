@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-27T22:12:31Z",
+ "updated": "2026-11-27T22:17:52Z",
  "apps": [
   {
    "key": "finance",
    "name": "Beacon Finance",
-   "version": "48.21.3",
-   "program_version": "48.21.3",
-   "tag": "finance-v48.21.3",
-   "file": "Beacon_Finance_Setup_48.21.3.zip",
-   "size": 26608458,
+   "version": "48.22.0",
+   "program_version": "48.22.0",
+   "tag": "finance-v48.22.0",
+   "file": "Beacon_Finance_Setup_48.22.0.zip",
+   "size": 26615446,
    "date": "2026-11-27",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/finance-v48.21.3/Beacon_Finance_Setup_48.21.3.zip",
-   "whats_new": "48.21.3  (November 2026)  THE MENU AND EVERY PAGE SCROLL; A CLEAR SEARCH SIGN\n  - The left menu scrolls when the window is lower than the menu (on a laptop, or with bigger letters, the pages after\n    ADMIN were cut off). The version line stays at the bottom.\n  - Every page (Offering Slips to Settings & Audit) scrolls when the window is lower than the page: what was hidden at\n    the bottom is reached with the scroll bar or the mouse wheel. A page that fits shows no scroll bar. (The Dashboard\n    already scrolled.) A list or a text box under the mouse still scrolls itself.\n  - The search box has a drawn magnifying glass (the 🔍 letter was tiny on Windows); clicking it searches too."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/finance-v48.22.0/Beacon_Finance_Setup_48.22.0.zip",
+   "whats_new": "48.22.0  (November 2026)  HELP: UPDATES INSTALL THEMSELVES\n  - A new page, Help (at the bottom of the menu): Check for updates asks the download page for the newest version;\n    Update now downloads it, closes Beacon Finance (with its usual backup and sync), installs it and opens it again.\n    Windows asks once for permission: click Yes. The books are never touched.\n  - Beacon Finance also looks by itself 20 seconds after it opens and asks (Later / Update now); this can be turned off.\n  - The User Guide (a PDF with pictures of every page) comes with the next update: Help → Open the User Guide.\n  - Install this version by hand once (from the download page); after that, updates come through Help."
   },
   {
    "key": "secretary",
