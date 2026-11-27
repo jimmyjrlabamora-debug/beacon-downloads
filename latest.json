@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T05:47:34Z",
+ "updated": "2026-11-27T08:11:31Z",
  "apps": [
   {
    "key": "finance",
@@ -16,26 +16,26 @@
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.52",
-   "program_version": "4.43.9",
-   "tag": "secretary-v1.28.52",
-   "file": "Beacon_Secretary_Setup_1.28.52.zip",
-   "size": 46501696,
+   "version": "1.28.53",
+   "program_version": "4.43.10",
+   "tag": "secretary-v1.28.53",
+   "file": "Beacon_Secretary_Setup_1.28.53.zip",
+   "size": 46503170,
    "date": "2026-11-27",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.52/Beacon_Secretary_Setup_1.28.52.zip",
-   "whats_new": "v4.43.9 - SAVED CERTIFICATES; SEND BY EMAIL\n  - The left menu: Baptism & Dedication is now right before Documents.\n  - Baptism & Dedication has a third tab, Saved certificates: every certificate file made (PDF, and Word files that can\n    still be changed), newest first. Search finds a file by its name or by a name on the certificate; double-click (or\n    View) opens it. \"Saved certificates of this person\" (Water Baptism / Child Dedication tabs) shows the files of the\n    chosen person.\n  - Email…: on Documents (the PDF of the document) and on Saved certificates. A new email opens with the file attached\n    in Outlook / the computer's mail program (Mail on the Mac); or, with Gmail, a new Gmail email opens in the browser and\n    the file is shown in its folder to drag in. Type who it is for and press Send there. No password is kept in the program."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.53/Beacon_Secretary_Setup_1.28.53.zip",
+   "whats_new": "v4.43.10 - THE TABS ARE BACK; SAVED CERTIFICATES GO TO THE OTHER COMPUTER\n  - Documents and Baptism & Dedication: the tabs (Letters, Board Resolutions … / Water Baptism, Child Dedication, Saved\n    certificates) were squeezed to a thin gold line on Windows. Each line of tabs now takes the height its tabs need.\n  - Documents: nothing cut off on a laptop screen: Delete has its own row under + New and Duplicate; the buttons at the\n    top keep their room (the line under the title wraps); the buttons under the text are in two rows (with Email…).\n  - Saved certificates (Documents ▸ Certifications ▸ Dedication and Baptism, PDF and Word) go to the other computer\n    through Google Drive at each sync, like the PDFs of the documents. A file deleted on one computer is deleted on the\n    other; when the same file was changed on both, the last computer to sync keeps its copy."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.52",
-   "program_version": "4.43.9",
-   "tag": "attendance-v1.28.52",
-   "file": "Beacon_Attendance_Setup_1.28.52.zip",
-   "size": 46502047,
+   "version": "1.28.53",
+   "program_version": "4.43.10",
+   "tag": "attendance-v1.28.53",
+   "file": "Beacon_Attendance_Setup_1.28.53.zip",
+   "size": 46496238,
    "date": "2026-11-27",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.52/Beacon_Attendance_Setup_1.28.52.zip",
-   "whats_new": "v4.43.9 - SAVED CERTIFICATES; SEND BY EMAIL\n  - The left menu: Baptism & Dedication is now right before Documents.\n  - Baptism & Dedication has a third tab, Saved certificates: every certificate file made (PDF, and Word files that can\n    still be changed), newest first. Search finds a file by its name or by a name on the certificate; double-click (or\n    View) opens it. \"Saved certificates of this person\" (Water Baptism / Child Dedication tabs) shows the files of the\n    chosen person.\n  - Email…: on Documents (the PDF of the document) and on Saved certificates. A new email opens with the file attached\n    in Outlook / the computer's mail program (Mail on the Mac); or, with Gmail, a new Gmail email opens in the browser and\n    the file is shown in its folder to drag in. Type who it is for and press Send there. No password is kept in the program."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.53/Beacon_Attendance_Setup_1.28.53.zip",
+   "whats_new": "v4.43.10 - THE TABS ARE BACK; SAVED CERTIFICATES GO TO THE OTHER COMPUTER\n  - Documents and Baptism & Dedication: the tabs (Letters, Board Resolutions … / Water Baptism, Child Dedication, Saved\n    certificates) were squeezed to a thin gold line on Windows. Each line of tabs now takes the height its tabs need.\n  - Documents: nothing cut off on a laptop screen: Delete has its own row under + New and Duplicate; the buttons at the\n    top keep their room (the line under the title wraps); the buttons under the text are in two rows (with Email…).\n  - Saved certificates (Documents ▸ Certifications ▸ Dedication and Baptism, PDF and Word) go to the other computer\n    through Google Drive at each sync, like the PDFs of the documents. A file deleted on one computer is deleted on the\n    other; when the same file was changed on both, the last computer to sync keeps its copy."
   },
   {
    "key": "admin",
