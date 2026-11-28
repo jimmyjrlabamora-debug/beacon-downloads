@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T22:17:52Z",
+ "updated": "2026-11-28T00:14:52Z",
  "apps": [
   {
    "key": "finance",
@@ -16,26 +16,26 @@
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.56",
-   "program_version": "4.45.0",
-   "tag": "secretary-v1.28.56",
-   "file": "Beacon_Secretary_Setup_1.28.56.zip",
-   "size": 46524662,
-   "date": "2026-11-27",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.56/Beacon_Secretary_Setup_1.28.56.zip",
-   "whats_new": "v4.45.0 - HELP: UPDATES INSTALL THEMSELVES (setup 1.28.56)\n  - A new page, Help (at the bottom of the menu): Check for updates asks the download page for the newest version;\n    Update now downloads it, closes the program (with its usual backup and sync to Google Drive), installs it and opens\n    it again. Windows asks once for permission: click Yes. The church records are never touched.\n  - The program also looks by itself 20 seconds after it opens and asks (Later / Update now); this can be turned off.\n    In Usher mode the Help page is hidden.\n  - The User Guide (a PDF with pictures of every page) comes with the next update: Help → Open the User Guide.\n  - Install this version by hand once (from the download page); after that, updates come through Help."
+   "version": "1.28.57",
+   "program_version": "4.45.1",
+   "tag": "secretary-v1.28.57",
+   "file": "Beacon_Secretary_Setup_1.28.57.zip",
+   "size": 46525706,
+   "date": "2026-11-28",
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.57/Beacon_Secretary_Setup_1.28.57.zip",
+   "whats_new": "v4.45.1 - THE DISBURSING OFFICER'S \"RELEASE NOW\" CARD (setup 1.28.57)\n  - Its copy of the member portal is Website Update 111: the Disbursing Officer sees one card with everything to release\n    at the moment (each approved request and each standing budget due today, with its amount), the total, and the same\n    money by fund. Standing budgets due later this period are listed apart. Nothing else changed in the program."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.56",
-   "program_version": "4.45.0",
-   "tag": "attendance-v1.28.56",
-   "file": "Beacon_Attendance_Setup_1.28.56.zip",
-   "size": 46527765,
-   "date": "2026-11-27",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.56/Beacon_Attendance_Setup_1.28.56.zip",
-   "whats_new": "v4.45.0 - HELP: UPDATES INSTALL THEMSELVES (setup 1.28.56)\n  - A new page, Help (at the bottom of the menu): Check for updates asks the download page for the newest version;\n    Update now downloads it, closes the program (with its usual backup and sync to Google Drive), installs it and opens\n    it again. Windows asks once for permission: click Yes. The church records are never touched.\n  - The program also looks by itself 20 seconds after it opens and asks (Later / Update now); this can be turned off.\n    In Usher mode the Help page is hidden.\n  - The User Guide (a PDF with pictures of every page) comes with the next update: Help → Open the User Guide.\n  - Install this version by hand once (from the download page); after that, updates come through Help."
+   "version": "1.28.57",
+   "program_version": "4.45.1",
+   "tag": "attendance-v1.28.57",
+   "file": "Beacon_Attendance_Setup_1.28.57.zip",
+   "size": 46520986,
+   "date": "2026-11-28",
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.57/Beacon_Attendance_Setup_1.28.57.zip",
+   "whats_new": "v4.45.1 - THE DISBURSING OFFICER'S \"RELEASE NOW\" CARD (setup 1.28.57)\n  - Its copy of the member portal is Website Update 111: the Disbursing Officer sees one card with everything to release\n    at the moment (each approved request and each standing budget due today, with its amount), the total, and the same\n    money by fund. Standing budgets due later this period are listed apart. Nothing else changed in the program."
   },
   {
    "key": "admin",
