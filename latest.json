@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-28T14:40:45Z",
+ "updated": "2026-11-28T15:45:29Z",
  "apps": [
   {
    "key": "finance",
    "name": "Beacon Finance",
-   "version": "48.23.1",
-   "program_version": "48.23.1",
-   "tag": "finance-v48.23.1",
-   "file": "Beacon_Finance_Setup_48.23.1.zip",
-   "size": 26618350,
+   "version": "48.23.2",
+   "program_version": "48.23.2",
+   "tag": "finance-v48.23.2",
+   "file": "Beacon_Finance_Setup_48.23.2.zip",
+   "size": 26620112,
    "date": "2026-11-28",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/finance-v48.23.1/Beacon_Finance_Setup_48.23.1.zip",
-   "whats_new": "48.23.1  (November 2026)  UPDATE NOW INSTALLS AGAIN\n  - Help → Update now did not install on some computers: the program closed and nothing happened (an antivirus program stopped the hidden PowerShell that does the update). It is now a plain batch file (update.cmd), and the program first checks that it started; if it did not, it offers to open the setup itself (Yes, Next, Install; Finish opens the program again). The log is in %TEMP%\\BeaconUpdate\\update.log.\n  - This version must be installed by hand once (from the download page)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/finance-v48.23.2/Beacon_Finance_Setup_48.23.2.zip",
+   "whats_new": "48.23.2  (November 2026)  VIEW RECEIPT SHOWS THE PICTURE AGAIN\n  - Online Giving → View Receipt… opened an empty window: the picture was thrown away as soon as the window opened. It now\n    stays, on Windows and on the Mac.\n  - New: Open full size, to see the receipt in the computer's own picture viewer (to zoom in on the reference number)."
   },
   {
    "key": "secretary",
