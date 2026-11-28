@@ -1,41 +1,41 @@
 {
- "updated": "2026-11-28T01:04:43Z",
+ "updated": "2026-11-28T13:11:04Z",
  "apps": [
   {
    "key": "finance",
    "name": "Beacon Finance",
-   "version": "48.22.1",
-   "program_version": "48.22.1",
-   "tag": "finance-v48.22.1",
-   "file": "Beacon_Finance_Setup_48.22.1.zip",
-   "size": 26617960,
+   "version": "48.23.0",
+   "program_version": "48.23.0",
+   "tag": "finance-v48.23.0",
+   "file": "Beacon_Finance_Setup_48.23.0.zip",
+   "size": 26620173,
    "date": "2026-11-28",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/finance-v48.22.1/Beacon_Finance_Setup_48.22.1.zip",
-   "whats_new": "48.22.1  (November 2026)  UPDATES NO LONGER STUCK ON THE CLOSING SYNC\n  - Help → Update now no longer gets stuck on the closing sync: when the program closes for an update it asks no \"Close anyway?\" questions (changes not yet synced stay on this computer and go at the next sync), the closing sync gets at most 5 minutes, the program then ends for sure, and the update waits up to 3 hours for it (it gave up after 15 minutes before, so nothing was installed or opened again).\n  - This version must be installed by hand once (the one before closes the old way)."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/finance-v48.23.0/Beacon_Finance_Setup_48.23.0.zip",
+   "whats_new": "48.23.0  (November 2026)  ONLINE GIFTS WAIT FOR THEIR RECEIPT (needs Website Update 113)\n  - Online Giving → Preview: a gift sent by GCash or bank without its receipt shows WAITING FOR RECEIPT — NOT CONFIRMED.\n    The members are now reminded to send it: the giving page asks them to come back with the screenshot, and a member\n    signed in to the portal sees \"Send your receipt\" there (and one phone notification the next morning).\n  - A giver may say a gift did not go through (or was cancelled): it shows Did Not Go Through (giver) and is never\n    imported. If it was imported already, it shows GIVER SAYS IT DID NOT GO THROUGH — CHECK: look at the account statement.\n  - When gifts are imported, the members' \"Send your receipt\" reminders of those gifts are removed from the portal.\n  - The summary line counts the gifts waiting for a receipt and those that did not go through."
   },
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.59",
-   "program_version": "4.45.3",
-   "tag": "secretary-v1.28.59",
-   "file": "Beacon_Secretary_Setup_1.28.59.zip",
-   "size": 46528936,
+   "version": "1.28.60",
+   "program_version": "4.45.4",
+   "tag": "secretary-v1.28.60",
+   "file": "Beacon_Secretary_Setup_1.28.60.zip",
+   "size": 46526694,
    "date": "2026-11-28",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.59/Beacon_Secretary_Setup_1.28.59.zip",
-   "whats_new": "v4.45.3 - UPDATES NO LONGER STUCK ON THE CLOSING SYNC (setup 1.28.59)\n  - Help → Update now no longer gets stuck on the closing sync: when the program closes for an update it asks no \"Close anyway?\" questions (changes not yet synced stay on this computer and go at the next sync), the closing sync gets at most 5 minutes, the program then ends for sure, and the update waits up to 3 hours for it (it gave up after 15 minutes before, so nothing was installed or opened again).\n  - Install this version by hand once (from the download page): the one before closes the old way."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.60/Beacon_Secretary_Setup_1.28.60.zip",
+   "whats_new": "v4.45.4 - THE WEBSITE'S COPY IS WEBSITE UPDATE 113 (setup 1.28.60)\n  - Its copy of the member portal and the rules is Website Update 113 (rules 60): a gift recorded online that waits for its\n    receipt reminds the member in the portal (Home → Waiting for you, the Give tab, My giving) until the receipt is sent.\n    Nothing else changed in Beacon Secretary or Beacon Attendance."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.59",
-   "program_version": "4.45.3",
-   "tag": "attendance-v1.28.59",
-   "file": "Beacon_Attendance_Setup_1.28.59.zip",
-   "size": 46527362,
+   "version": "1.28.60",
+   "program_version": "4.45.4",
+   "tag": "attendance-v1.28.60",
+   "file": "Beacon_Attendance_Setup_1.28.60.zip",
+   "size": 46527759,
    "date": "2026-11-28",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.59/Beacon_Attendance_Setup_1.28.59.zip",
-   "whats_new": "v4.45.3 - UPDATES NO LONGER STUCK ON THE CLOSING SYNC (setup 1.28.59)\n  - Help → Update now no longer gets stuck on the closing sync: when the program closes for an update it asks no \"Close anyway?\" questions (changes not yet synced stay on this computer and go at the next sync), the closing sync gets at most 5 minutes, the program then ends for sure, and the update waits up to 3 hours for it (it gave up after 15 minutes before, so nothing was installed or opened again).\n  - Install this version by hand once (from the download page): the one before closes the old way."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.60/Beacon_Attendance_Setup_1.28.60.zip",
+   "whats_new": "v4.45.4 - THE WEBSITE'S COPY IS WEBSITE UPDATE 113 (setup 1.28.60)\n  - Its copy of the member portal and the rules is Website Update 113 (rules 60): a gift recorded online that waits for its\n    receipt reminds the member in the portal (Home → Waiting for you, the Give tab, My giving) until the receipt is sent.\n    Nothing else changed in Beacon Secretary or Beacon Attendance."
   },
   {
    "key": "admin",
