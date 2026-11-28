@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T00:14:52Z",
+ "updated": "2026-11-28T00:35:34Z",
  "apps": [
   {
    "key": "finance",
@@ -16,26 +16,26 @@
   {
    "key": "secretary",
    "name": "Beacon Secretary",
-   "version": "1.28.57",
-   "program_version": "4.45.1",
-   "tag": "secretary-v1.28.57",
-   "file": "Beacon_Secretary_Setup_1.28.57.zip",
-   "size": 46525706,
+   "version": "1.28.58",
+   "program_version": "4.45.2",
+   "tag": "secretary-v1.28.58",
+   "file": "Beacon_Secretary_Setup_1.28.58.zip",
+   "size": 46527605,
    "date": "2026-11-28",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.57/Beacon_Secretary_Setup_1.28.57.zip",
-   "whats_new": "v4.45.1 - THE DISBURSING OFFICER'S \"RELEASE NOW\" CARD (setup 1.28.57)\n  - Its copy of the member portal is Website Update 111: the Disbursing Officer sees one card with everything to release\n    at the moment (each approved request and each standing budget due today, with its amount), the total, and the same\n    money by fund. Standing budgets due later this period are listed apart. Nothing else changed in the program."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/secretary-v1.28.58/Beacon_Secretary_Setup_1.28.58.zip",
+   "whats_new": "v4.45.2 - MY SLIPS FOLDED, WITH FILTERS (setup 1.28.58)\n  - Its copy of the member portal is Website Update 112: My slips (Disbursing Officer, Treasurer) shows one line per slip\n    with See details, and is chosen by kind and by year and month, like History; slips that need the officer come first.\n    Nothing else changed in the program."
   },
   {
    "key": "attendance",
    "name": "Beacon Attendance",
-   "version": "1.28.57",
-   "program_version": "4.45.1",
-   "tag": "attendance-v1.28.57",
-   "file": "Beacon_Attendance_Setup_1.28.57.zip",
-   "size": 46520986,
+   "version": "1.28.58",
+   "program_version": "4.45.2",
+   "tag": "attendance-v1.28.58",
+   "file": "Beacon_Attendance_Setup_1.28.58.zip",
+   "size": 46526755,
    "date": "2026-11-28",
-   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.57/Beacon_Attendance_Setup_1.28.57.zip",
-   "whats_new": "v4.45.1 - THE DISBURSING OFFICER'S \"RELEASE NOW\" CARD (setup 1.28.57)\n  - Its copy of the member portal is Website Update 111: the Disbursing Officer sees one card with everything to release\n    at the moment (each approved request and each standing budget due today, with its amount), the total, and the same\n    money by fund. Standing budgets due later this period are listed apart. Nothing else changed in the program."
+   "url": "https://github.com/jimmyjrlabamora-debug/beacon-downloads/releases/download/attendance-v1.28.58/Beacon_Attendance_Setup_1.28.58.zip",
+   "whats_new": "v4.45.2 - MY SLIPS FOLDED, WITH FILTERS (setup 1.28.58)\n  - Its copy of the member portal is Website Update 112: My slips (Disbursing Officer, Treasurer) shows one line per slip\n    with See details, and is chosen by kind and by year and month, like History; slips that need the officer come first.\n    Nothing else changed in the program."
   },
   {
    "key": "admin",
